@@ -1,0 +1,314 @@
+body {
+    background-color: black;
+    color: #0F0;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    height: 20vh;
+    max-height: 20vw;
+    text-align: center;
+    background-color: black;
+    border-bottom: 2px solid #054005;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    height: 100%;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    margin-bottom: 7vh;
+}
+
+h1#name {
+    margin: 0;
+    margin-top: 2vh;
+    padding: 0;
+    float: left;
+    letter-spacing: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header_icon {
+    float: left;
+    margin-right: 1vw;
+}
+
+.box {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+        border-style: solid;
+        padding: 10px;
+        margin: 5px;
+        font-size: 30px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 3px 0px #99dd99;
+}
+
+.box:hover {
+    cursor: pointer;
+}
+
+#click:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+table, th, td {
+    border: 1px solid #00ffff40;
+}
+
+table {
+    display: inline-block;
+    background-color: #001010;
+}
+
+#hide {
+    position: fixed;
+    top: 10%;
+    right: 20%;
+    padding: 10px;
+    border: 1px solid aqua;
+}
+
+#hide:hover {
+    cursor: pointer;
+}
+
+.cbt {
+    clear: both;
+}
+
+main {
+    min-height: 37.5vh;
+    font-size: 30px;
+    min-width: 50vw;
+    width: fit-content;
+    max-width: 80vw;
+    background-color: #001010;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10vh 10vw;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+button#start {
+    border: none;
+    color: #0F0;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: black;
+    border: 2px solid #0F0;
+    border-radius: 15px;
+    margin-bottom: 0px;
+}
+
+input {
+    width: 90%;
+    background-color: #000;
+    border: 0.1vw solid aqua;
+    font-size: 30px;
+    border-radius: 15px;
+    color: #88ffff;
+    min-height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#input_div {
+    width: 50%;
+    max-width: 60vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1vh;
+}
+
+#user_ansewar {
+    display: none;
+}
+
+#nazistowskie_kropki
+{
+    width: 40%;
+    min-height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10vh;
+    display: none;
+}
+
+@media screen
+{
+    #nazistowskie_kropki
+    {
+        display: none;
+    }
+    #nazistowskie_kropki
+    {
+        display: none;
+    }
+
+    #info
+    {
+        margin-bottom: 100px;
+    }
+
+    #input_div
+    {
+        margin-top: 100px;
+        margin-bottom: 0;
+    }
+
+    button#start
+    {
+        margin-top: 10px;
+    }
+
+}
+
+.nazistowskie_kropki_button
+{
+    float: left;
+    background-color: black;
+    color: #00ff0099;
+    border: 2px solid #00ff00;
+    border-radius: 10px;
+    width: 12.28%;
+    margin: 0;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#info {
+    height: 50px;
+    margin-bottom: 5vh;
+}
+
+.boxes {
+    width: 66vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+.container {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+/* telefon */
+@media screen and (max-width: 1000px) {
+    h1#name {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .header_icon {
+        height: 45px;
+    }
+    main {
+        width: 100vw;
+    }
+    #input_div {
+        width: 100vw;
+    }
+    input {
+        width: 90%;
+    }
+    .nazistowskie_kropki_button {
+        width: 15vw;
+    }
+
+    .boxes {
+		width: 100%;
+        grid-template-columns: auto auto auto; 
+		padding: 5%;
+		gap: 3vw;
+    }
+
+    .box {
+    	min-height: 8vh;
+		font-size: 2vh;
+	}
+
+}
+
+/* komputor */
+@media screen and (min-width: 1001px) {
+    h1#name {
+        font-size: 70px;
+        margin-bottom: 15px;
+    }
+    .header_icon {
+        height: 120px;
+    }
+}
+
+#my-icon-upload {
+    position: fixed;
+    top: 50px;
+    right: 50px;
+    font-size: 50px;
+}
+
+#my-icon-upload:hover {
+    cursor: pointer;
+}
+
+.tooltiptext {
+    font-size: 20px;
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    top: 110%;
+    left: -35%;
+    z-index: 1;
+}
+
+#my-icon-upload:hover .tooltiptext {
+    visibility: visible;
+  }
+
+input#fileToUpload {
+    display: block;
+    width: fit-content;
+    background-color: #000;
+    font-size: 10px;
+    border-radius: 15px;
+    color: #88ffff;
+    margin-left: auto;
+    margin-right: auto;
+}
