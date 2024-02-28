@@ -2,7 +2,7 @@
 
     session_start();
 
-    require_once '/var/www/html/api/isLogged.php';    
+//    require_once '/var/www/html/api/isLogged.php';    
 
     //make list of files .json in direcory
     $files_list = array("");
