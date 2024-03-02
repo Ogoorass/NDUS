@@ -26,16 +26,18 @@ if ($conn->connect_errno!=0)
     exit(1);
 }
 
+$user_table_questoins = $userID.'-questions';
+$user_table_answers = $userID.'-answers';
 
 
-$query_question = "SELECT `questions`.`question` FROM `{$userID}` 
-INNER JOIN `questions` ON `{$userID}`.`question_id`=`questions`.`id` 
-WHERE `questions`.`id_list` = ?
-ORDER BY `{$userID}`.`question_order` ASC LIMIT 1";
+$query_question = "SELECT `questions`.`question`, `{$user_table_questoins}`.`id` FROM `{$user_table_questoins}` 
+INNER JOIN `questions` ON `{$user_table_questoins}`.`question_id`=`questions`.`id` 
+WHERE `questions`.`list_id` = ?";
 
 
  
 // error when the table does not exists
+// so create table if not exists
 try {
   $stmt_question = $conn->prepare($query_question);
   $stmt_question->bind_param('i', $listID);
@@ -49,19 +51,11 @@ try {
 catch (mysqli_sql_exception $e) {
   
   // create table
-  $query = "CREATE TABLE IF NOT EXISTS `{$userID}` AS SELECT * FROM user_template";
-  if (!$conn->query($query)) {
-    echo 'something went wrong';
-    exit(1);
-  }
-
-  $query = "ALTER TABLE `{$userID}` ADD PRIMARY KEY (id);";
-  if (!$conn->query($query)) {
-    echo 'something went wrong';
-    exit(1);
-  }
-
-  $query = "ALTER TABLE `{$userID}` MODIFY COLUMN id INT AUTO_INCREMENT";
+  $query = "CREATE TABLE IF NOT EXISTS `{$user_table_questoins}` (
+    id int NOT NULL AUTO_INCREMENT,
+    question_id int,
+    PRIMARY KEY (id)
+  )";
   if (!$conn->query($query)) {
     echo 'something went wrong';
     exit(1);
@@ -77,10 +71,9 @@ catch (mysqli_sql_exception $e) {
 }
 
 if ($result_question->num_rows < 1) {
-
   // no result so the session in not started
   // so fill in the table
-  $query = "SELECT id FROM questions WHERE id_list =?";
+  $query = "SELECT id FROM questions WHERE list_id =?";
   $stmt = $conn->prepare($query);
   $stmt->bind_param("i", $listID);
   if (!$stmt->execute()) {
@@ -91,17 +84,15 @@ if ($result_question->num_rows < 1) {
   $result = $stmt->get_result();
   $result_arr = $result->fetch_all(MYSQLI_ASSOC);
   shuffle($result_arr);
-  $order = 0;
 
   foreach ($result_arr as $row) {
-    $query = "INSERT INTO `{$userID}` (question_id, question_order) VALUES (?, ?)";
+    $query = "INSERT INTO `{$user_table_questoins}` (question_id) VALUES (?)";
     $stmt = $conn->prepare($query);
-    $stmt->bind_param('ii', $row['id'], $order);
+    $stmt->bind_param('i', $row['id']);
     if (!$stmt->execute()) {
       echo 'something went wrong';
       exit(1);
     }
-    $order+=1;
   }
 
   if (!$stmt_question->execute()) {
@@ -110,50 +101,28 @@ if ($result_question->num_rows < 1) {
   }
 
   $result_question = $stmt_question->get_result();
-}
 
+  //delete all answers from last session
+  $query_del_last_session = "DELETE `{$user_table_answers}` FROM `{$user_table_answers}` 
+    JOIN `questions` ON `questions`.`id` = `{$user_table_answers}`.`question_id` 
+    WHERE `questions`.`list_id` = ?;";
+
+  $stmt_del_last_session = $conn->prepare($query_del_last_session);
+  $stmt_del_last_session->bind_param('i', $listID);
+
+  if (!$stmt_del_last_session->execute()) {
+    echo 'delete last session answers query error!';
+    exit(1);
+  }
+}
 
 
 // success
-$question = $result_question->fetch_all(MYSQLI_ASSOC)[0]['question'];
-echo $question;
+$questions = $result_question->fetch_all(MYSQLI_ASSOC);
+shuffle($questions);
+$question = $questions[0];
+
+echo json_encode($question);
 
 
-
-exit(0);
-
-/*
-
-if ($stmt->execute())
-{
-  echo 'executing sql<br>';
-
-  $result = $stmt->get_result();
-    
-  $howmany = $result->num_rows;
-  if ($howmany > 0)
-  {
-     echo "1";
-  }
-  else
-  {
-    echo 'database error<br>';
-  }
-
-
-}
-else
-{
-    echo "database error";
-}
-
-$conn->close();
-// userID is database id for user's session
-// there will be one database for each userID containing all the session of the user
-//
-// check if session is active
-// start session if necessary
-//
-// output lates word
- */
 ?>
