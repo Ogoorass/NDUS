@@ -1,0 +1,1030 @@
+[
+{
+"n": "paramedic",
+"p": "ratownik medyczny"
+},
+{
+"n": "police officer",
+"p": "policjant"
+},
+{
+"n": "accountant",
+"p": "księgowy"
+},
+{
+"n": "architect",
+"p": "architekt"
+},
+{
+"n": "cashier",
+"p": "kasjer w banku"
+},
+{
+"n": "checkout assistant",
+"p": "kasjer w supermarkecie"
+},
+{
+"n": "chef",
+"p": "kucharz"
+},
+{
+"n": "computer programmer",
+"p": "programista"
+},
+{
+"n": "economist",
+"p": "ekonomista"
+},
+{
+"n": "editor",
+"p": "redaktor"
+},
+{
+"n": "electrician",
+"p": "elektryk"
+},
+{
+"n": "farmer",
+"p": "rolnik"
+},
+{
+"n": "fashion designer",
+"p": "projektant mody"
+},
+{
+"n": "firefighter",
+"p": "strażak"
+},
+{
+"n": "flight attendant",
+"p": "steward"
+},
+{
+"n": "journalist",
+"p": "dziennikarz"
+},
+{
+"n": "judge",
+"p": "sędzia"
+},
+{
+"n": "lawyer",
+"p": "prawnik"
+},
+{
+"n": "lecturer",
+"p": "wykładowca"
+},
+{
+"n": "librarian",
+"p": "bibliotekarz"
+},
+{
+"n": "manager",
+"p": "kierownik"
+},
+{
+"n": "nurse",
+"p": "pielęgniarz"
+},
+{
+"n": "office assistant",
+"p": "asystent biura"
+},
+{
+"n": "pharmacist",
+"p": "aptekarz"
+},
+{
+"n": "plumber",
+"p": "hydraulik"
+},
+{
+"n": "receptionist",
+"p": "recepcjonista"
+},
+{
+"n": "sales assistant",
+"p": "sprzedawca"
+},
+{
+"n": "soldier",
+"p": "żołnierz"
+},
+{
+"n": "surgeon",
+"p": "chirurg"
+},
+{
+"n": "travel agent",
+"p": "pracownik biura podróży"
+},
+{
+"n": "TV presenter",
+"p": "prezenter telewizyjny"
+},
+{
+"n": "vet",
+"p": "lekarz weterynarii"
+},
+{
+"n": "barber",
+"p": "fryzjer męski"
+},
+{
+"n": "beautician",
+"p": "kosmetyczka"
+},
+{
+"n": "blacksmith",
+"p": "kowal"
+},
+{
+"n": "bricklayer",
+"p": "murarz"
+},
+{
+"n": "carpenter",
+"p": "stolarz"
+},
+{
+"n": "chief executive",
+"p": "dyrektor generalny"
+},
+{
+"n": "civil servant",
+"p": "urzędnik państwowy"
+},
+{
+"n": "counsellor",
+"p": "doradca"
+},
+{
+"n": "doorman",
+"p": "portier"
+},
+{
+"n": "graphic designer",
+"p": "grafik"
+},
+{
+"n": "handyman",
+"p": "majster"
+},
+{
+"n": "interpreter",
+"p": "tłumacz symultaniczny"
+},
+{
+"n": "leatherworker",
+"p": "kaletnik"
+},
+{
+"n": "miner",
+"p": "górnik"
+},
+{
+"n": "nutritionist",
+"p": "dietetyk"
+},
+{
+"n": "potter",
+"p": "garncarz"
+},
+{
+"n": "psychiatrist",
+"p": "psychiatra"
+},
+{
+"n": "refuse collector",
+"p": "pracownik zakładu oczyszczania"
+},
+{
+"n": "sales representative",
+"p": "reprezentant handlowy"
+},
+{
+"n": "shoemaker",
+"p": "szewc"
+},
+{
+"n": "stockbroker",
+"p": "makler giełdowy"
+},
+{
+"n": "tailor",
+"p": "krawiec"
+},
+{
+"n": "upholsterer",
+"p": "tapicer"
+},
+{
+"n": "wickerworker",
+"p": "wikliniarz"
+},
+{
+"n": "be at work",
+"p": "być w pracy"
+},
+{
+"n": "be in charge of sth",
+"p": "zarządzać"
+},
+{
+"n": "be responsible for sth",
+"p": "być odpowiedzialnym za coś"
+},
+{
+"n": "collect data",
+"p": "zbierać dane"
+},
+{
+"n": "do paperwork",
+"p": "zajmować się dokumentami"
+},
+{
+"n": "do sth for a living",
+"p": "utrzymywać się z czegoś"
+},
+{
+"n": "fulfil duties",
+"p": "wypełniać obowiązki"
+},
+{
+"n": "job description",
+"p": "zakres obowiązków"
+},
+{
+"n": "profession",
+"p": "zawód"
+},
+{
+"n": "supervise",
+"p": "nadzorować"
+},
+{
+"n": "take responsibility for sb",
+"p": "wziąć odpowiedzialność za kogoś"
+},
+{
+"n": "take responsibility for sth",
+"p": "wziąć odpowiedzialność za coś"
+},
+{
+"n": "work as sb",
+"p": "pracować jako"
+},
+{
+"n": "work for a company",
+"p": "pracować w firmie"
+},
+{
+"n": "work in a team",
+"p": "pracować w zespole"
+},
+{
+"n": "work in sales",
+"p": "pracować w dziale sprzedaży"
+},
+{
+"n": "work in the tourist industry",
+"p": "pracować w branży turystycznej"
+},
+{
+"n": "work on",
+"p": "pracować nad"
+},
+{
+"n": "work permit",
+"p": "pozwolenie na pracę"
+},
+{
+"n": "work under pressure",
+"p": "pracować pod presją"
+},
+{
+"n": "work with sb",
+"p": "pracować z kimś"
+},
+{
+"n": "inspiring",
+"p": "inspirująca"
+},
+{
+"n": "manual",
+"p": "fizyczna"
+},
+{
+"n": "monotonous",
+"p": "monotonna"
+},
+{
+"n": "motivating",
+"p": "motywująca"
+},
+{
+"n": "skilled",
+"p": "wymagająca kwalifikacji"
+},
+{
+"n": "steady",
+"p": "stabilna"
+},
+{
+"n": "stress-free",
+"p": "bezstresowa"
+},
+{
+"n": "unpaid",
+"p": "bezpłatna"
+},
+{
+"n": "well-paid",
+"p": "dobrze płatna"
+},
+{
+"n": "challenging",
+"p": "ambitna"
+},
+{
+"n": "dead-end",
+"p": "bez perspektyw"
+},
+{
+"n": "high-powered",
+"p": "na wysokim stanowisku"
+},
+{
+"n": "menial",
+"p": "praca fizyczna"
+},
+{
+"n": "rewarding",
+"p": "satysfakcjonująca"
+},
+{
+"n": "undemanding",
+"p": "niewymagająca"
+},
+{
+"n": "au pair",
+"p": "au pair"
+},
+{
+"n": "babysitter",
+"p": "opiekun do dzieci"
+},
+{
+"n": "casual work",
+"p": "praca tymczasowa"
+},
+{
+"n": "charity worker",
+"p": "wolontariusz"
+},
+{
+"n": "delivery boy",
+"p": "doręczyciel"
+},
+{
+"n": "delivery girl",
+"p": "doręczycielka"
+},
+{
+"n": "fruit picker",
+"p": "osoba zbierająca owoce"
+},
+{
+"n": "lifeguard",
+"p": "ratownik"
+},
+{
+"n": "seasonal job",
+"p": "praca sezonowa"
+},
+{
+"n": "summer camp supervisor",
+"p": "opiekun na obozie letnim"
+},
+{
+"n": "wages",
+"p": "płaca"
+},
+{
+"n": "advertise",
+"p": "ogłaszać"
+},
+{
+"n": "applicant",
+"p": "kandydat do pracy"
+},
+{
+"n": "apply for a job",
+"p": "ubiegać się o pracę"
+},
+{
+"n": "attach a CV",
+"p": "załączyć CV"
+},
+{
+"n": "be fired",
+"p": "zostać zwolnionym"
+},
+{
+"n": "be hired",
+"p": "zostać zatrudnionym"
+},
+{
+"n": "covering letter",
+"p": "list motywacyjny"
+},
+{
+"n": "employee",
+"p": "pracownik"
+},
+{
+"n": "employer",
+"p": "pracodawca"
+},
+{
+"n": "fill in an application form",
+"p": "wypełnić formularz aplikacyjny"
+},
+{
+"n": "get careers advice",
+"p": "skorzystać z doradztwa zawodowego"
+},
+{
+"n": "have a job interview",
+"p": "odbyć rozmowę kwalifikacyjną"
+},
+{
+"n": "human resources",
+"p": "dział perosnalny"
+},
+{
+"n": "jobcentre",
+"p": "biuro pośrednictwa pracy"
+},
+{
+"n": "keep a record",
+"p": "prowadzić rejestr"
+},
+{
+"n": "lack of experience",
+"p": "brak doświadczenia"
+},
+{
+"n": "position",
+"p": "praca"
+},
+{
+"n": "post",
+"p": "stanowisko"
+},
+{
+"n": "qualifications",
+"p": "kwalifikacje"
+},
+{
+"n": "quit a job",
+"p": "odejść z pracy"
+},
+{
+"n": "recruitment",
+"p": "rekrutacja"
+},
+{
+"n": "reference",
+"p": "referencje"
+},
+{
+"n": "reject",
+"p": "odrzucić"
+},
+{
+"n": "resign",
+"p": "złożyć rezygnację"
+},
+{
+"n": "run your own business",
+"p": "prowadzić własną firmę"
+},
+{
+"n": "short list",
+"p": "lista najpoważniejszych kandydatów"
+},
+{
+"n": "sign a contract",
+"p": "podpisać umowę"
+},
+{
+"n": "take on",
+"p": "przyjąc"
+},
+{
+"n": "take up a job",
+"p": "podjąć pracę"
+},
+{
+"n": "unemployed",
+"p": "bezrobotny"
+},
+{
+"n": "vacancy",
+"p": "wakat"
+},
+{
+"n": "be made redundant",
+"p": "zostać zwolnionym w ramach redukcji etatów"
+},
+{
+"n": "check out a company",
+"p": "sprawdzić informacje o firmie"
+},
+{
+"n": "get in-house training",
+"p": "przejść wewnętrzne szkolenie"
+},
+{
+"n": "get sacked",
+"p": "zostać zwolnionym z pracy"
+},
+{
+"n": "hand in your notice",
+"p": "wręczyc wymówienie"
+},
+{
+"n": "hand over information",
+"p": "przekazać informacje"
+},
+{
+"n": "have a complaints procedure",
+"p": "mieć procedurę składania reklamacji"
+},
+{
+"n": "take over from someone",
+"p": "przejąć od kogoś obowiązki"
+},
+{
+"n": "take up a position",
+"p": "objąć stanowisko"
+},
+{
+"n": "take up a reference",
+"p": "spradzić referencje kandydata"
+},
+{
+"n": "be badly paid",
+"p": "być źle opłacanym"
+},
+{
+"n": "be well paid",
+"p": "być dobrze opłacanym"
+},
+{
+"n": "business trip",
+"p": "podróż służbowa"
+},
+{
+"n": "chance of promotion",
+"p": "szansa na awans"
+},
+{
+"n": "colleague",
+"p": "kolega z pracy"
+},
+{
+"n": "do overtime",
+"p": "pracować w nadgodzinach"
+},
+{
+"n": "do shifts",
+"p": "pracować na zmiany"
+},
+{
+"n": "earnings",
+"p": "zarobki"
+},
+{
+"n": "full-time",
+"p": "na pełen etat"
+},
+{
+"n": "get a bonus",
+"p": "dostać premię"
+},
+{
+"n": "income",
+"p": "dochód"
+},
+{
+"n": "meet deadlines",
+"p": "dotrzymać terminów wykonania pracy"
+},
+{
+"n": "paid leave",
+"p": "płatny urlop"
+},
+{
+"n": "part-time",
+"p": "na część etatu"
+},
+{
+"n": "pay rise",
+"p": "podwyżka pensji"
+},
+{
+"n": "per hour",
+"p": "na godzinę"
+},
+{
+"n": "per week",
+"p": "tygodniowo"
+},
+{
+"n": "per month",
+"p": "miesięcznie"
+},
+{
+"n": "permanent job",
+"p": "stała praca"
+},
+{
+"n": "public holiday",
+"p": "dzien ustawowo wolny od pracy"
+},
+{
+"n": "salary",
+"p": "pensja"
+},
+{
+"n": "sick leave",
+"p": "zwolnienie lekarskie"
+},
+{
+"n": "sick pay",
+"p": "zasiłek chorobowy"
+},
+{
+"n": "take time off",
+"p": "wziąć wolne"
+},
+{
+"n": "tax",
+"p": "podatek"
+},
+{
+"n": "teamwork",
+"p": "praca zespołowa"
+},
+{
+"n": "tip",
+"p": "napiwek"
+},
+{
+"n": "work long hours",
+"p": "pracować do późna"
+},
+{
+"n": "working conditions",
+"p": "warunki pracy"
+},
+{
+"n": "appoint",
+"p": "mianować"
+},
+{
+"n": "committed",
+"p": "oddany"
+},
+{
+"n": "cover expenses",
+"p": "pokryć wydatki"
+},
+{
+"n": "delegate tasks",
+"p": "przekazać zadania"
+},
+{
+"n": "do the graveyard shift",
+"p": "pracować na nocną zmianę"
+},
+{
+"n": "get regular feedback",
+"p": "regularnie otrzymywać informacje zwrotne"
+},
+{
+"n": "go on strike",
+"p": "strajkować"
+},
+{
+"n": "hourly rate",
+"p": "stawka godzinowa"
+},
+{
+"n": "industrious",
+"p": "pracowity"
+},
+{
+"n": "maternity leave",
+"p": "urlop macierzyński"
+},
+{
+"n": "paternity leave",
+"p": "urlop ojcowski"
+},
+{
+"n": "minimum wage",
+"p": "płaca minimalna"
+},
+{
+"n": "pay into a pension scheme",
+"p": "płacić na fundusz emerytalny"
+},
+{
+"n": "perks",
+"p": "dodatkowe korzyści"
+},
+{
+"n": "probation",
+"p": "okres próbny"
+},
+{
+"n": "productivity",
+"p": "wydajność"
+},
+{
+"n": "staff morale",
+"p": "morale w zespole"
+},
+{
+"n": "take unpaid leave",
+"p": "wziąć urlop bezpłatny"
+},
+{
+"n": "work flexitime",
+"p": "mieć elastyczne godziny pracy"
+},
+{
+"n": "be out of work",
+"p": "być bez pracy"
+},
+{
+"n": "blue-collar worker",
+"p": "pracownik fizyczny"
+},
+{
+"n": "white-collar worker",
+"p": "pracownik biurowy"
+},
+{
+"n": "born leader",
+"p": "urodzony przywódca"
+},
+{
+"n": "career prospects",
+"p": "perspektywy zawodowe"
+},
+{
+"n": "climb the career ladder",
+"p": "wspinać się po szczeblach kariery"
+},
+{
+"n": "devote sb's life to sth",
+"p": "poświęcić czemuś życie"
+},
+{
+"n": "entrepreneur",
+"p": "przedsiębiorca"
+},
+{
+"n": "get a promotion",
+"p": "dostać awans"
+},
+{
+"n": "promote",
+"p": "dać awans"
+},
+{
+"n": "go bankrupt",
+"p": "zbankrutować"
+},
+{
+"n": "go freelance",
+"p": "zacząć pracować na własny rachunek"
+},
+{
+"n": "freelancer",
+"p": "wolny strzelec"
+},
+{
+"n": "intern",
+"p": "stażysta"
+},
+{
+"n": "job satisfaction",
+"p": "zadowolenie z wykonywanej pracy"
+},
+{
+"n": "join a union",
+"p": "zapisać się do związku zawodowego"
+},
+{
+"n": "pension",
+"p": "emerytura"
+},
+{
+"n": "get a pension",
+"p": "dostać emeryturę"
+},
+{
+"n": "retire",
+"p": "przejść na emeryturę"
+},
+{
+"n": "seek new opportunities",
+"p": "szukać nowych możliwości"
+},
+{
+"n": "self-employed",
+"p": "samozatrudniony"
+},
+{
+"n": "server an apprenticeship",
+"p": "odbyć praktyki"
+},
+{
+"n": "sign on the dole",
+"p": "zrejestrować się jako bezrobotny"
+},
+{
+"n": "start up a business",
+"p": "założyć firmę"
+},
+{
+"n": "take early retirement",
+"p": "przejść na wcześniejszą emeryturę"
+},
+{
+"n": "work from home",
+"p": "pracować z domu"
+},
+{
+"n": "build your portfolio",
+"p": "zbudować portfolio"
+},
+{
+"n": "career advancement",
+"p": "awans"
+},
+{
+"n": "career path",
+"p": "ścieżka kariery"
+},
+{
+"n": "change in occupation",
+"p": "zmiana zawodu"
+},
+{
+"n": "employability",
+"p": "możliwości zatrudnienia"
+},
+{
+"n": "employee turnover",
+"p": "rotacja pracowników"
+},
+{
+"n": "gain hands-on knowledge",
+"p": "uzyskać praktyczną wiedzę"
+},
+{
+"n": "knowledgeable",
+"p": "obeznany"
+},
+{
+"n": "move to a new location",
+"p": "przenieść się do nowej lokacji"
+},
+{
+"n": "it is sb's job to do sth",
+"p": "zrobienie czegoś należy do czyichś obowiązków"
+},
+{
+"n": "job satisfaction",
+"p": "satysfakcja z pracy"
+},
+{
+"n": "work environment",
+"p": "środowisko pracy"
+},
+{
+"n": "work toward sth",
+"p": "pracować w celu osiągnięcia czegoś"
+},
+{
+"n": "work under sb",
+"p": "być czyimś podwładnym"
+},
+{
+"n": "affluent",
+"p": "zamożny"
+},
+{
+"n": "bespoke",
+"p": "przygotowany na zamówienie"
+},
+{
+"n": "disposable income",
+"p": "dochód do swobodnego rozporządzania"
+},
+{
+"n": "high-powered",
+"p": "mocny"
+},
+{
+"n": "innovative",
+"p": "innowacyjny"
+},
+{
+"n": "robust",
+"p": "silny"
+},
+{
+"n": "significant",
+"p": "znaczący"
+},
+{
+"n": "sought-after",
+"p": "ceniony"
+},
+{
+"n": "tech-savvy",
+"p": "biegle posługujący się technologiami"
+},
+{
+"n": "well-off",
+"p": "bogaty"
+},
+{
+"n": "be cut out to do sth",
+"p": "być stworzonym do robienia czegoś"
+},
+{
+"n": "crop up",
+"p": "pojawić się niespodziewanie"
+},
+{
+"n": "figure out",
+"p": "zorientować się"
+},
+{
+"n": "hold off on sth",
+"p": "wstrzymać się z czymś"
+},
+{
+"n": "lay down the law",
+"p": "narzucać swoje zdanie"
+},
+{
+"n": "make up",
+"p": "nadrobić"
+},
+{
+"n": "miss out on sth",
+"p": "odczuwać brak czegoś"
+},
+{
+"n": "set out",
+"p": "ustanowić"
+},
+{
+"n": "shut out sth",
+"p": "odciąć się od czegoś"
+},
+{
+"n": "spring up",
+"p": "pojawiać się"
+},
+{
+"n": "become a thing of the past",
+"p": "przejść do historii"
+},
+{
+"n": "call the shots",
+"p": "decydować"
+},
+{
+"n": "for the long haul",
+"p": "na długi czas"
+},
+{
+"n": "learn the ropes",
+"p": "nauczyć się fachu"
+},
+{
+"n": "make one's mark",
+"p": "zostawić swój ślad"
+}
+]

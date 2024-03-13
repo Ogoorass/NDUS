@@ -1,0 +1,202 @@
+[
+    {
+        "n": "die Erde",
+        "p": "Ziemia"
+    },
+    {
+        "n": "der Planet",
+        "p": "planeta"
+    },
+    {
+        "n": "der Kosmos",
+        "p": "Kosmos"
+    },
+    {
+        "n": "die Mutter Erde",
+        "p": "matka Ziemia"
+    },
+    {
+        "n": "die Sonne",
+        "p": "słońce"
+    },
+    {
+        "n": "der Tag",
+        "p": "dzień"
+    },
+    {
+        "n": "die Nacht",
+        "p": "noc"
+    },
+    {
+        "n": "der Winter",
+        "p": "zima"
+    },
+    {
+        "n": "der Sommer",
+        "p": "lato"
+    },
+    {
+        "n": "die Achse",
+        "p": "oś"
+    },
+    {
+        "n": "der Mond",
+        "p": "księżyc"
+    },
+    {
+        "n": "die Entfernung von der Sonne",
+        "p": "odległość od słońca"
+    },
+    {
+        "n": "die Umlaufzeit um die Sonne",
+        "p": "okres obiegu wokół Słońca"
+    },
+    {
+        "n": "das Sonnensystem",
+        "p": "układ słoneczny"
+    },
+    {
+        "n": "die Drehung um sich selbst",
+        "p": "obrót wokół siebie"
+    },
+    {
+        "n": "der Blaue Planet",
+        "p": "niebieska planeta"
+    },
+    {
+        "n": "der Erdoberfläche",
+        "p": "powierzchnia Ziemi"
+    },
+    {
+        "n": "der Ozean",
+        "p": "ocean"
+    },
+    {
+        "n": "das Meer",
+        "p": "morze"
+    },
+    {
+        "n": "das Gebirge",
+        "p": "góry"
+    },
+    {
+        "n": "das Tal",
+        "p": "dolina"
+    },
+    {
+        "n": "der Wald",
+        "p": "las"
+    },
+    {
+        "n": "atemberaubend",
+        "p": "zapierający dech w piersiach"
+    },
+    {
+        "n": "die Pflanze",
+        "p": "roślina"
+    },
+    {
+        "n": "der Mikroorganismus",
+        "p": "mikroorganizm"
+    },
+    {
+        "n": "das Insekt",
+        "p": "owad"
+    },
+    {
+        "n": "der Fisch",
+        "p": "ryba"
+    },
+    {
+        "n": "der Vogel",
+        "p": "ptak"
+    },
+    {
+        "n": "das Säugetier",
+        "p": "ssak"
+    },
+    {
+        "n": "das Licht",
+        "p": "światło"
+    },
+    {
+        "n": "die Luft",
+        "p": "powietrze"
+    },
+    {
+        "n": "die Wärme",
+        "p": "ciepło"
+    },
+    {
+        "n": "das Wasser",
+        "p": "woda"
+    },
+    {
+        "n": "die Nahrung",
+        "p": "pożywienie"
+    },
+    {
+        "n": "zerstören",
+        "p": "niszczyć"
+    },
+    {
+        "n": "der Kofferraum",
+        "p": "bagażnik"
+    },
+    {
+        "n": "die Lebewesen",
+        "p": "istota żywa"
+    },
+    {
+        "n": "der Pazifik",
+        "p": "Pacyfik"
+    },
+    {
+        "n": "der Atlantik",
+        "p": "Atlantyk"
+    },
+    {
+        "n": "der Indische Ozean",
+        "p": "Ocean Indyjski"
+    },
+    {
+        "n": "der Antarktis",
+        "p": "Antarktyda"
+    },
+    {
+        "n": "der Stickstoff",
+        "p": "azot"
+    },
+    {
+        "n": "der Sauerstoff",
+        "p": "tlen"
+    },
+    {
+        "n": "der Wasserdampf",
+        "p": "para wodna"
+    },
+    {
+        "n": "das Kohlendioxyd",
+        "p": "dwutlenek węgla"
+    },
+    {
+        "n": "Äquatornähe",
+        "p": "w pobliżu równika"
+    },
+    {
+        "n": "der Wüste",
+        "p": "pustynia"
+    },
+    {
+        "n": "die Taiga",
+        "p": "tajga"
+    },
+    {
+        "n": "der Regenwald",
+        "p": "las deszczowy"
+    },
+    {
+        "n": "der Savanne",
+        "p": "sawanna"
+    }
+]

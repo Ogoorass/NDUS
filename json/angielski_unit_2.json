@@ -1,0 +1,1250 @@
+[
+{
+"n": "block of flats",
+"p": "blok mieszkalny"
+},
+{
+"n": "bungalow",
+"p": "dom parterowy"
+},
+{
+"n": "cabin",
+"p": "chata"
+},
+{
+"n": "cottage",
+"p": "domek wiejski"
+},
+{
+"n": "detached house",
+"p": "wolnostojący dom jednorodzinny"
+},
+{
+"n": "farmhouse",
+"p": "dom w gospodarstwie rolnym"
+},
+{
+"n": "housing estate",
+"p": "osiedle mieszkaniowe"
+},
+{
+"n": "mansion",
+"p": "pałac"
+},
+{
+"n": "nursing home",
+"p": "dom spokojnej starości"
+},
+{
+"n": "semi-detached house",
+"p": "bliźniak"
+},
+{
+"n": "studio flat",
+"p": "kawalerka"
+},
+{
+"n": "terraced house",
+"p": "dom szeregowy"
+},
+{
+"n": "affordable",
+"p": "w przystępnej cenie"
+},
+{
+"n": "all mod cons",
+"p": "wszystkie wygody"
+},
+{
+"n": "bedsit",
+"p": "kawalerka do wynajęcia"
+},
+{
+"n": "gated community",
+"p": "osiedle zamknięte"
+},
+{
+"n": "mobile home",
+"p": "przyczepa mieszkalna"
+},
+{
+"n": "sheltered accommodation",
+"p": "mieszkania dla osób wymagających opieki"
+},
+{
+"n": "family home",
+"p": "dom rodzinny"
+},
+{
+"n": "skyscraper",
+"p": "wieżowiec"
+},
+{
+"n": "across the road from",
+"p": "po drugiej stronie ulicy"
+},
+{
+"n": "central location",
+"p": "centralne położenie"
+},
+{
+"n": "commute",
+"p": "dojeżdżać do pracy lub do szkoły"
+},
+{
+"n": "district",
+"p": "dzielnica"
+},
+{
+"n": "in a rural area",
+"p": "w wiejskiej okolicy"
+},
+{
+"n": "in the countryside",
+"p": "na wsi"
+},
+{
+"n": "in the middle of nowhere",
+"p": "na odludziu"
+},
+{
+"n": "in the suburbs",
+"p": "na przedmieściach"
+},
+{
+"n": "inhabitant",
+"p": "mieszkaniec"
+},
+{
+"n": "located",
+"p": "położony"
+},
+{
+"n": "neighbour",
+"p": "sąsiad"
+},
+{
+"n": "neighbourhood",
+"p": "sąsiedztwo"
+},
+{
+"n": "Old Town",
+"p": "Stare Miasto"
+},
+{
+"n": "on the edge of",
+"p": "na skraju czegoś"
+},
+{
+"n": "overlook",
+"p": "wychodzić na"
+},
+{
+"n": "public transport",
+"p": "transport publiczny"
+},
+{
+"n": "residents",
+"p": "mieszkańcy"
+},
+{
+"n": "village",
+"p": "wioska"
+},
+{
+"n": "a stone's throw from",
+"p": "niedaleko od"
+},
+{
+"n": "amenities",
+"p": "udogodnienia"
+},
+{
+"n": "hustle and bustle",
+"p": "zgiełk"
+},
+{
+"n": "in the heart of the countryside",
+"p": "na głębokiej wsi"
+},
+{
+"n": "lane",
+"p": "dróżka"
+},
+{
+"n": "leafy",
+"p": "liściasty"
+},
+{
+"n": "off the beaten track",
+"p": "na uboczu"
+},
+{
+"n": "within walking distance of",
+"p": "w bliskiej odległości"
+},
+{
+"n": "attic",
+"p": "strych"
+},
+{
+"n": "basement",
+"p": "piwnica"
+},
+{
+"n": "carport",
+"p": "wiata na samochód"
+},
+{
+"n": "ceiling",
+"p": "sufit"
+},
+{
+"n": "chimney",
+"p": "komin"
+},
+{
+"n": "downstairs",
+"p": "na dole"
+},
+{
+"n": "drive",
+"p": "podjazd"
+},
+{
+"n": "fence",
+"p": "ogrodzenie"
+},
+{
+"n": "fireplace",
+"p": "kominek"
+},
+{
+"n": "front door",
+"p": "drzwi frontowe"
+},
+{
+"n": "back door",
+"p": "drzwi tylne"
+},
+{
+"n": "gate",
+"p": "brama"
+},
+{
+"n": "hedge",
+"p": "żywopłot"
+},
+{
+"n": "ground floor",
+"p": "parter"
+},
+{
+"n": "laundry room",
+"p": "domowa pralnia"
+},
+{
+"n": "lawn",
+"p": "trawnik"
+},
+{
+"n": "living room",
+"p": "salon"
+},
+{
+"n": "loft",
+"p": "strych"
+},
+{
+"n": "porch",
+"p": "ganek"
+},
+{
+"n": "roof",
+"p": "dach"
+},
+{
+"n": "shed",
+"p": "szopa"
+},
+{
+"n": "staircase",
+"p": "klatka schodowa"
+},
+{
+"n": "steps",
+"p": "schodki"
+},
+{
+"n": "study",
+"p": "gabinet"
+},
+{
+"n": "upstairs",
+"p": "na górze"
+},
+{
+"n": "extension",
+"p": "przybudówka"
+},
+{
+"n": "landing",
+"p": "półpiętro"
+},
+{
+"n": "larder",
+"p": "spiżarnia"
+},
+{
+"n": "utility room",
+"p": "pomieszczenie gospodarcze"
+},
+{
+"n": "walk-in closet",
+"p": "garderoba"
+},
+{
+"n": "lift",
+"p": "winda"
+},
+{
+"n": "yard",
+"p": "dziedziniec"
+},
+{
+"n": "airy",
+"p": "przestronny"
+},
+{
+"n": "badly-decorated",
+"p": "źle wykończony"
+},
+{
+"n": "bright",
+"p": "jasny"
+},
+{
+"n": "cluttered",
+"p": "zagracony"
+},
+{
+"n": "convert",
+"p": "przerobić"
+},
+{
+"n": "cosy",
+"p": "przytulny"
+},
+{
+"n": "dusty",
+"p": "zakurzony"
+},
+{
+"n": "eco-friendly",
+"p": "przyjazny dla środowiska"
+},
+{
+"n": "furnished",
+"p": "umeblowany"
+},
+{
+"n": "unfurnished",
+"p": "nieumeblowany"
+},
+{
+"n": "homely",
+"p": "przytulny"
+},
+{
+"n": "luxurious",
+"p": "luksusowy"
+},
+{
+"n": "maintain",
+"p": "utrzymywać"
+},
+{
+"n": "mud",
+"p": "błoto"
+},
+{
+"n": "old-fashioned",
+"p": "staromodny"
+},
+{
+"n": "open-plan",
+"p": "bez ścian działowych"
+},
+{
+"n": "second-hand",
+"p": "używany"
+},
+{
+"n": "spacious",
+"p": "przestronny"
+},
+{
+"n": "steel",
+"p": "stalowy"
+},
+{
+"n": "stone",
+"p": "kamienny"
+},
+{
+"n": "tidy",
+"p": "posprzątany"
+},
+{
+"n": "untidy",
+"p": "nieposprzątany"
+},
+{
+"n": "wooden",
+"p": "drewniany"
+},
+{
+"n": "antique",
+"p": "zabytkowy"
+},
+{
+"n": "cramped",
+"p": "ciasny"
+},
+{
+"n": "dingy",
+"p": "obskurny"
+},
+{
+"n": "dilapidated",
+"p": "zniszczony"
+},
+{
+"n": "in need of renovation",
+"p": "do remontu"
+},
+{
+"n": "oak",
+"p": "dębowy"
+},
+{
+"n": "stuffy",
+"p": "duszny"
+},
+{
+"n": "quaint",
+"p": "osobliwy"
+},
+{
+"n": "unique-looking",
+"p": "o unikalnym wyglądzie"
+},
+{
+"n": "under construction",
+"p": "w budowie"
+},
+{
+"n": "well-maintained",
+"p": "dobrze utrzymany"
+},
+{
+"n": "air conditioning",
+"p": "klimatyzacja"
+},
+{
+"n": "alarm clock",
+"p": "budzik"
+},
+{
+"n": "bath mat",
+"p": "dywanik łazienkowy"
+},
+{
+"n": "bedside table",
+"p": "stolik nocny"
+},
+{
+"n": "blanket",
+"p": "koc"
+},
+{
+"n": "blinds",
+"p": "rolety"
+},
+{
+"n": "carpet",
+"p": "dywan"
+},
+{
+"n": "central heating",
+"p": "centralne ogrzewanie"
+},
+{
+"n": "chest of drawers",
+"p": "komoda"
+},
+{
+"n": "coffee maker",
+"p": "ekspres do kawy"
+},
+{
+"n": "cooker",
+"p": "kuchenka"
+},
+{
+"n": "cupboard",
+"p": "szafka kuchenna"
+},
+{
+"n": "curtains",
+"p": "zasłony"
+},
+{
+"n": "net curtains",
+"p": "firanki"
+},
+{
+"n": "cushion",
+"p": "poduszka dekoracyjna"
+},
+{
+"n": "dishwasher",
+"p": "zmywarka"
+},
+{
+"n": "doormat",
+"p": "wycieraczka"
+},
+{
+"n": "double bed",
+"p": "podwójne łóżko"
+},
+{
+"n": "duvet",
+"p": "kołdra"
+},
+{
+"n": "electric kettle",
+"p": "czajnik elektryczny"
+},
+{
+"n": "kitchen island",
+"p": "wyspa kuchenna"
+},
+{
+"n": "kitchen appliances",
+"p": "urządzenia kuchenne"
+},
+{
+"n": "lighting",
+"p": "oświetlenie"
+},
+{
+"n": "microwave",
+"p": "kuchenka mikrofalowa"
+},
+{
+"n": "oven",
+"p": "piekarnik"
+},
+{
+"n": "pillow",
+"p": "poduszka"
+},
+{
+"n": "potted plant",
+"p": "roślina doniczkowa"
+},
+{
+"n": "rug",
+"p": "dywanik"
+},
+{
+"n": "sheet",
+"p": "prześcieradło"
+},
+{
+"n": "shelf",
+"p": "półka"
+},
+{
+"n": "single bed",
+"p": "pojedyncze łóżko"
+},
+{
+"n": "toaster",
+"p": "toster"
+},
+{
+"n": "toilet",
+"p": "toaleta"
+},
+{
+"n": "towel rail",
+"p": "wieszak na ręczniki"
+},
+{
+"n": "TV set",
+"p": "telewizor"
+},
+{
+"n": "wallpaper",
+"p": "tapeta"
+},
+{
+"n": "washbasin",
+"p": "umywalka"
+},
+{
+"n": "washing machine",
+"p": "pralka"
+},
+{
+"n": "bare floor",
+"p": "goła podłoga"
+},
+{
+"n": "bedspread",
+"p": "narzuta na łóżko"
+},
+{
+"n": "bedding",
+"p": "pościel"
+},
+{
+"n": "burglar alarm",
+"p": "alarm antywłamaniowy"
+},
+{
+"n": "bunk bed",
+"p": "łóżko piętrowe"
+},
+{
+"n": "countertop",
+"p": "blat kuchenny"
+},
+{
+"n": "dish drainer",
+"p": "suszarka do naczyń"
+},
+{
+"n": "double-glazed window",
+"p": "okno z podwójną szybą"
+},
+{
+"n": "fish pond",
+"p": "oczko wodne"
+},
+{
+"n": "fitted carpet",
+"p": "wykładzina dywanowa"
+},
+{
+"n": "floorboards",
+"p": "deski podłogowe"
+},
+{
+"n": "floor tiles",
+"p": "kafelki podłogowe"
+},
+{
+"n": "flowerbed",
+"p": "klomb"
+},
+{
+"n": "fruit bowl",
+"p": "miska na owoce"
+},
+{
+"n": "heater",
+"p": "grzejnik"
+},
+{
+"n": "heating system",
+"p": "system grzewczy"
+},
+{
+"n": "kitchen utensils",
+"p": "przybory kuchenne"
+},
+{
+"n": "mantelpiece",
+"p": "półka nad kominkiem"
+},
+{
+"n": "ornament",
+"p": "ozdoba"
+},
+{
+"n": "office chair",
+"p": "krzesło biurowe"
+},
+{
+"n": "rack",
+"p": "półka"
+},
+{
+"n": "radiator",
+"p": "kaloryfer"
+},
+{
+"n": "shutters",
+"p": "okiennice"
+},
+{
+"n": "silver frame",
+"p": "srebrna ramka"
+},
+{
+"n": "smoke alarm",
+"p": "alarm przeciwpożarowy"
+},
+{
+"n": "solar panels",
+"p": "panele słoneczne"
+},
+{
+"n": "stair rail",
+"p": "poręcz przy schodach"
+},
+{
+"n": "stool",
+"p": "stołek"
+},
+{
+"n": "windowsill",
+"p": "parapet okienny"
+},
+{
+"n": "brush",
+"p": "szczotka"
+},
+{
+"n": "change the sheets",
+"p": "zmieniać pościel"
+},
+{
+"n": "dustpan",
+"p": "szufelka"
+},
+{
+"n": "do the gardening",
+"p": "pracować w ogrodzie"
+},
+{
+"n": "do the grocery shopping",
+"p": "robić zakupy spożywcze"
+},
+{
+"n": "do the laundry",
+"p": "robić pranie"
+},
+{
+"n": "do the housework",
+"p": "zajmować się domem"
+},
+{
+"n": "dust the furniture",
+"p": "wycierać kurz z mebli"
+},
+{
+"n": "empty the dishwasher",
+"p": "opróżniać zmywarkę"
+},
+{
+"n": "empty the rubbish bin",
+"p": "opróżniać kosz na śmieci"
+},
+{
+"n": "have a clear-out",
+"p": "pozbywać się niepotrzebnych rzeczy"
+},
+{
+"n": "have green fingers",
+"p": "mieć dobrą rękę do roślin"
+},
+{
+"n": "hoover the carpet",
+"p": "odkurzać dywan"
+},
+{
+"n": "iron the clothes",
+"p": "prasować ubrania"
+},
+{
+"n": "keep sth neat and tidy",
+"p": "utrzymywać coś w nienagannym porządku"
+},
+{
+"n": "make improvements",
+"p": "wprowadzać ulepszenia"
+},
+{
+"n": "make the bed",
+"p": "ścielić łóżko"
+},
+{
+"n": "mop the floor",
+"p": "wycierać podłogę mopem"
+},
+{
+"n": "mow the lawn",
+"p": "kosić trawnik"
+},
+{
+"n": "renovate a corridor",
+"p": "odnowić korytarz"
+},
+{
+"n": "rubber gloves",
+"p": "gumowe rękawiczki"
+},
+{
+"n": "shopping bag",
+"p": "torba na zakupy"
+},
+{
+"n": "sponge",
+"p": "gąbka"
+},
+{
+"n": "sweep the floor",
+"p": "zamiatać podłogę"
+},
+{
+"n": "tea towel",
+"p": "ścierka"
+},
+{
+"n": "broom",
+"p": "miotła"
+},
+{
+"n": "duster",
+"p": "ściereczka do kurzu"
+},
+{
+"n": "lawnmower",
+"p": "kosiarka"
+},
+{
+"n": "mend a dripping tap",
+"p": "naprawić cieknący kran"
+},
+{
+"n": "rake",
+"p": "grabie"
+},
+{
+"n": "spade",
+"p": "szpadel"
+},
+{
+"n": "trowel",
+"p": "rydel ogrodniczy"
+},
+{
+"n": "accommodation",
+"p": "zakwaterowanie"
+},
+{
+"n": "ad",
+"p": "ogłoszenie"
+},
+{
+"n": "auction",
+"p": "aukcja"
+},
+{
+"n": "bill",
+"p": "rachunek"
+},
+{
+"n": "budget",
+"p": "budżet"
+},
+{
+"n": "deposit",
+"p": "kaucja"
+},
+{
+"n": "estate agent",
+"p": "agent nieruchomości"
+},
+{
+"n": "flatmate",
+"p": "współlokator"
+},
+{
+"n": "live on one's own",
+"p": "mieszkać samemu"
+},
+{
+"n": "move house",
+"p": "przeprowadzić się"
+},
+{
+"n": "move in",
+"p": "wprowadzić się"
+},
+{
+"n": "move out",
+"p": "wyprowadzić się"
+},
+{
+"n": "notice",
+"p": "wypowiedzenie"
+},
+{
+"n": "pay in advance",
+"p": "zapłacić z góry"
+},
+{
+"n": "payment",
+"p": "płatność"
+},
+{
+"n": "removal van",
+"p": "samochód służący do przewożenia mebli"
+},
+{
+"n": "rent",
+"p": "wynająć"
+},
+{
+"n": "share a room",
+"p": "dzielić z kimś pokój"
+},
+{
+"n": "share a flat",
+"p": "dzielić z kimś mieszkanie"
+},
+{
+"n": "share a house",
+"p": "dzielić z kimś dom"
+},
+{
+"n": "to let",
+"p": "do wynajęcia"
+},
+{
+"n": "bid",
+"p": "oferta w licytacji"
+},
+{
+"n": "housewarming party",
+"p": "parapetówka"
+},
+{
+"n": "instalments",
+"p": "raty"
+},
+{
+"n": "per week",
+"p": "tygodniowo"
+},
+{
+"n": "per month",
+"p": "miesięcznie"
+},
+{
+"n": "take out a mortgage",
+"p": "wziąć kredyt hipoteczny"
+},
+{
+"n": "tenant",
+"p": "lokator"
+},
+{
+"n": "landlord",
+"p": "właściciel mieszkania lub domu"
+},
+{
+"n": "landlady",
+"p": "właścicielka mieszkania lub domu"
+},
+{
+"n": "blueprint",
+"p": "projekt"
+},
+{
+"n": "brick",
+"p": "cegła"
+},
+{
+"n": "building site",
+"p": "plac budowy"
+},
+{
+"n": "classical",
+"p": "klasyczny"
+},
+{
+"n": "concrete",
+"p": "beton"
+},
+{
+"n": "construct",
+"p": "zbudować"
+},
+{
+"n": "demolish",
+"p": "zburzyć"
+},
+{
+"n": "derelict",
+"p": "opuszczony"
+},
+{
+"n": "exterior",
+"p": "fasada"
+},
+{
+"n": "eyesore",
+"p": "brzydactwo"
+},
+{
+"n": "feature",
+"p": "cecha"
+},
+{
+"n": "foundation",
+"p": "podstawa"
+},
+{
+"n": "iconic",
+"p": "znany"
+},
+{
+"n": "interior",
+"p": "wnętrze"
+},
+{
+"n": "marble",
+"p": "marmurowy"
+},
+{
+"n": "modernist",
+"p": "modernistyczny"
+},
+{
+"n": "planning permission",
+"p": "pozwolenie na budowę"
+},
+{
+"n": "plate glass",
+"p": "tafla szkła"
+},
+{
+"n": "public building",
+"p": "budynek użyteczności publicznej"
+},
+{
+"n": "commercial building",
+"p": "budynek komercyjny"
+},
+{
+"n": "historic building",
+"p": "budynek historyczny"
+},
+{
+"n": "pull down",
+"p": "burzyć"
+},
+{
+"n": "put up",
+"p": "zbudować"
+},
+{
+"n": "single-storey",
+"p": "jednopiętrowy"
+},
+{
+"n": "multi-storey",
+"p": "wielopiętrowy"
+},
+{
+"n": "symmetrical",
+"p": "symetryczny"
+},
+{
+"n": "urban",
+"p": "miejski"
+},
+{
+"n": "skyline",
+"p": "sylwetka budynku na tle nieba"
+},
+{
+"n": "structure",
+"p": "struktura"
+},
+{
+"n": "chore",
+"p": "obowiązek"
+},
+{
+"n": "cleanliness",
+"p": "czystość"
+},
+{
+"n": "get rid of sth",
+"p": "pozbyć się czegoś"
+},
+{
+"n": "put money aside",
+"p": "odkładać pieniądze"
+},
+{
+"n": "put sth away",
+"p": "odkładać coś na swoje miejsce"
+},
+{
+"n": "put sth off",
+"p": "odkładać coś na później"
+},
+{
+"n": "put the kettle on",
+"p": "zagotować wodę"
+},
+{
+"n": "put up with sth",
+"p": "znosić coś"
+},
+{
+"n": "spotless",
+"p": "nieskazitelnie czysty"
+},
+{
+"n": "throw sth away",
+"p": "wyrzucić coś"
+},
+{
+"n": "arch",
+"p": "łuk"
+},
+{
+"n": "chamber",
+"p": "komnata"
+},
+{
+"n": "dome",
+"p": "kopuła"
+},
+{
+"n": "edifice",
+"p": "gmach"
+},
+{
+"n": "landmark",
+"p": "budynek charakterystyczny dla danego miejsca"
+},
+{
+"n": "mausoleum",
+"p": "grobowiec"
+},
+{
+"n": "monument",
+"p": "pomnik"
+},
+{
+"n": "post",
+"p": "słup"
+},
+{
+"n": "temple",
+"p": "świątynia"
+},
+{
+"n": "walkway",
+"p": "kładka"
+},
+{
+"n": "chrome door handle",
+"p": "chromowane klamki do drzwi"
+},
+{
+"n": "creaky stairs",
+"p": "skrzypiące schody"
+},
+{
+"n": "overgrown garden",
+"p": "zarośnięty ogród"
+},
+{
+"n": "overhead lighting",
+"p": "górne oświetlenie"
+},
+{
+"n": "underfloor heating",
+"p": "ogrzewanie podłogowe"
+},
+{
+"n": "bedroom dimensions",
+"p": "wymiary sypialni"
+},
+{
+"n": "cracked plaster",
+"p": "pęknięty tynk"
+},
+{
+"n": "ill-fitting shutters",
+"p": "źle dopasowane okiennice"
+},
+{
+"n": "large-scale project",
+"p": "projekt na dużą skalę"
+},
+{
+"n": "leaky pipe",
+"p": "nieszczelna rura"
+},
+{
+"n": "rising damp",
+"p": "podciągająca wilgoć"
+},
+{
+"n": "storage space",
+"p": "przestrzeń do przechowywania"
+},
+{
+"n": "blocked drain",
+"p": "zatkany odpływ"
+},
+{
+"n": "canteen",
+"p": "stołówka"
+},
+{
+"n": "common room",
+"p": "świetlica"
+},
+{
+"n": "head teacher's office",
+"p": "gabinet dyrektora szkoły"
+},
+{
+"n": "laboratory",
+"p": "pracownia"
+},
+{
+"n": "lecture hall",
+"p": "aula"
+},
+{
+"n": "locker room",
+"p": "szatnia"
+},
+{
+"n": "secretary's office",
+"p": "sekretariat"
+},
+{
+"n": "sports field",
+"p": "boisko"
+},
+{
+"n": "staffroom",
+"p": "pokój nauczycielski"
+}
+]

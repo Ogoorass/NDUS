@@ -1,0 +1,158 @@
+[
+    {
+        "n": "G00",
+        "p": "ruch szybki w linii prostej"
+    },
+    {
+        "n": "G01",
+        "p": "ruch roboczy w linii prostej"
+    },
+    {
+        "n": "G02",
+        "p": "interpolacja kołowa zgodnie z ruchem wskazówek zegara"
+    },
+    {
+        "n": "G03",
+        "p": "interpolacja kołowa przeciwnie do ruchu wskazówek zegara"
+    },
+    {
+        "n": "G17",
+        "p": "wybór płaszczyzny roboczej XY"
+    },
+    {
+        "n": "G18",
+        "p": "wybór płaszczyzny roboczej XZ"
+    },
+    {
+        "n": "G19",
+        "p": "wybór płaszczyzny roboczej YZ"
+    },
+    {
+        "n": "G20",
+        "p": "system calowy"
+    },
+    {
+        "n": "G21",
+        "p": "system metryczny"
+    },
+    {
+        "n": "G33",
+        "p": "gwintowanie"
+    },
+    {
+        "n": "G40",
+        "p": "praca bez kompensacji"
+    },
+    {
+        "n": "G41",
+        "p": "kompensacja lewostronna"
+    },
+    {
+        "n": "G42",
+        "p": "kompensacja prawostronna"
+    },
+    {
+        "n": "G54-G59",
+        "p": "punkty zerowe przedmiotu obrabianego"
+    },
+    {
+        "n": "G70",
+        "p": "cykl obróbki wykańczającej"
+    },
+    {
+        "n": "G71",
+        "p": "cykl obróbki zgrubne"
+    },
+    {
+        "n": "G90",
+        "p": "wymiarowanie absolutne"
+    },
+    {
+        "n": "G91",
+        "p": "wymiarowanie przyrostowe"
+    },
+    {
+        "n": "G96",
+        "p": "stała prędkość skrawania włączona"
+    },
+    {
+        "n": "G97",
+        "p": "stała prędkość skrawania wyłączona"
+    },
+    {
+        "n": "G98",
+        "p": "posuw na minutę"
+    },
+    {
+        "n": "G99",
+        "p": "posuw na obrót"
+    },
+    {
+        "n": "M02",
+        "p": "koniec programu"
+    },
+    {
+        "n": "M03",
+        "p": "włączenie prawych obrotów wrzeciona"
+    },
+    {
+        "n": "M04",
+        "p": "włączenie lewych obrotów wrzeciona"
+    },
+    {
+        "n": "M06",
+        "p": "wymiana narzędzia"
+    },
+    {
+        "n": "M08",
+        "p": "włączenie chłodziwa"
+    },
+    {
+        "n": "M09",
+        "p": "wyłączenie chłodziwa"
+    },
+    {
+        "n": "M17",
+        "p": "koniec podprogramu"
+    },
+    {
+        "n": "M30",
+        "p": "koniec programu z przewinięciem do początku"
+    },
+    {
+        "n": "T",
+        "p": "wybór narzędzia"
+    },
+    {
+        "n": "D",
+        "p": "wybór korektora (punktu odniesienia narzędzia) (Siemens)"
+    },
+    {
+        "n": "F",
+        "p": "prędkość posuwu"
+    },
+    {
+        "n": "S",
+        "p": "prędkość obrotowa wrzeciona"
+    },
+    {
+        "n": "XYZ",
+        "p": "współrzędne"
+    },
+    {
+        "n": "IJK",
+        "p": "dodatkowe współrzędne"
+    },
+    {
+        "n": "N",
+        "p": "numeracja bloku"
+    },
+    {
+        "n": "PQ",
+        "p": "początek i koniec cyklu"
+    },
+    {
+        "n": "UVW",
+        "p": "wykorzystywane przy funkcji “Home”"
+    }
+]

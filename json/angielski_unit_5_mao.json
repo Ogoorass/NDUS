@@ -1,0 +1,718 @@
+[
+{
+"n": "acquaintance",
+"p": "znajomy"
+},
+{
+"n": "adopted",
+"p": "adoptowany"
+},
+{
+"n": "adopt",
+"p": "zaadoptować"
+},
+{
+"n": "aunt",
+"p": "ciotka"
+},
+{
+"n": "be raised in",
+"p": "być wychowanym w"
+},
+{
+"n": "be related to sb",
+"p": "być z kimś spokrewnionym"
+},
+{
+"n": "bring up",
+"p": "wychować"
+},
+{
+"n": "brother-in-law",
+"p": "szwagier"
+},
+{
+"n": "close friend",
+"p": "bliski przyjaciel"
+},
+{
+"n": "colleague",
+"p": "kolega z pracy"
+},
+{
+"n": "cousin",
+"p": "kuzyn"
+},
+{
+"n": "fiancé",
+"p": "narzeczony"
+},
+{
+"n": "fiancée",
+"p": "narzeczona"
+},
+{
+"n": "friendship",
+"p": "przyjaźń"
+},
+{
+"n": "generation",
+"p": "pokolenie"
+},
+{
+"n": "get engaged",
+"p": "zaręczyć się"
+},
+{
+"n": "get married",
+"p": "wyjść za mąż"
+},
+{
+"n": "get on well with",
+"p": "mieć dobre stosunki z"
+},
+{
+"n": "godfather",
+"p": "ojciec chrzestny"
+},
+{
+"n": "godmother",
+"p": "matka chrzestna"
+},
+{
+"n": "gossip",
+"p": "plotki"
+},
+{
+"n": "granddaughter",
+"p": "wnuczka"
+},
+{
+"n": "grandparents",
+"p": "dziadkowie"
+},
+{
+"n": "grandson",
+"p": "wnuk"
+},
+{
+"n": "great-grandparents",
+"p": "pradziadkowie"
+},
+{
+"n": "half brother",
+"p": "brat przyrodni"
+},
+{
+"n": "half sister",
+"p": "siostra przyrodnia"
+},
+{
+"n": "hang around with",
+"p": "przestawać z"
+},
+{
+"n": "have sth in common with sb",
+"p": "mieć coś wspólnego z kimś"
+},
+{
+"n": "have sth in common with sth",
+"p": "mieć coś wspólnego z czymś"
+},
+{
+"n": "husband",
+"p": "mąż"
+},
+{
+"n": "keep in touch with sb",
+"p": "utrzymywać kontakt z kimś"
+},
+{
+"n": "keep in touch with sth",
+"p": "utrzymywać kontakt z czymś"
+},
+{
+"n": "look up to",
+"p": "podziwiać"
+},
+{
+"n": "make friends",
+"p": "zaprzyjaźnić się"
+},
+{
+"n": "only child",
+"p": "jedynak"
+},
+{
+"n": "orphan",
+"p": "sierota"
+},
+{
+"n": "pensioner",
+"p": "emeryt"
+},
+{
+"n": "propose to sb",
+"p": "oświadczyć się komuś"
+},
+{
+"n": "relationship",
+"p": "związek"
+},
+{
+"n": "relative",
+"p": "krewny"
+},
+{
+"n": "separated",
+"p": "w separacji"
+},
+{
+"n": "siblings",
+"p": "rodzeństwo"
+},
+{
+"n": "single parent",
+"p": "samotny rodzic"
+},
+{
+"n": "sister-in-law",
+"p": "szwagierka"
+},
+{
+"n": "take after",
+"p": "być podobnym"
+},
+{
+"n": "twins",
+"p": "bliźnięta"
+},
+{
+"n": "uncle",
+"p": "wuj"
+},
+{
+"n": "wife",
+"p": "żona"
+},
+{
+"n": "brush your hair",
+"p": "szczotkować włosy"
+},
+{
+"n": "brush your teeth",
+"p": "szczotkować zęby"
+},
+{
+"n": "check your email",
+"p": "sprawdzać pocztę elektroniczną"
+},
+{
+"n": "clear the table",
+"p": "sprzątać ze stołu"
+},
+{
+"n": "do the washing-up",
+"p": "zmywać naczynia"
+},
+{
+"n": "do sth out",
+"p": "uporządkować coś"
+},
+{
+"n": "do your hair",
+"p": "układać włosy"
+},
+{
+"n": "eat out",
+"p": "jeść na mieście"
+},
+{
+"n": "fill up on sth",
+"p": "najeść się czymś"
+},
+{
+"n": "freshen up",
+"p": "odświeżyć się"
+},
+{
+"n": "get an early night",
+"p": "pójść wcześniej spać"
+},
+{
+"n": "get dressed",
+"p": "ubierać się"
+},
+{
+"n": "get ready for school",
+"p": "szykować się do szkoły"
+},
+{
+"n": "get up",
+"p": "wstawać"
+},
+{
+"n": "give sth a rinse",
+"p": "opłukać coś"
+},
+{
+"n": "go home",
+"p": "wracać do domu"
+},
+{
+"n": "go to bed",
+"p": "kłaść się spać"
+},
+{
+"n": "have a late night studying",
+"p": "uczyć się do późna"
+},
+{
+"n": "have a lie-in",
+"p": "późno wstać"
+},
+{
+"n": "heat through",
+"p": "zagrzać"
+},
+{
+"n": "lay the table",
+"p": "nakrywać do stołu"
+},
+{
+"n": "lie down",
+"p": "położyć się"
+},
+{
+"n": "load the dishwasher",
+"p": "ładować zmywarkę"
+},
+{
+"n": "make a meal",
+"p": "przyrządzić posiłek"
+},
+{
+"n": "make your bed",
+"p": "ścielić łóżko"
+},
+{
+"n": "put out the rubbish",
+"p": "wynosić śmieci"
+},
+{
+"n": "recharge one's batteries",
+"p": "naładować baterie"
+},
+{
+"n": "set the alarm",
+"p": "nastawić budzik"
+},
+{
+"n": "tell stories",
+"p": "opowiadać historie"
+},
+{
+"n": "unwind",
+"p": "odprężyć się"
+},
+{
+"n": "wake up",
+"p": "budzić się"
+},
+{
+"n": "chat with friends",
+"p": "gawędzić ze znajomymi"
+},
+{
+"n": "chill out",
+"p": "relaksować się"
+},
+{
+"n": "come round",
+"p": "wpaść do kogoś z wizytą"
+},
+{
+"n": "do a course",
+"p": "pójść na kurs"
+},
+{
+"n": "do a crossword",
+"p": "rozwiązywać krzyżówkę"
+},
+{
+"n": "do gymnastics",
+"p": "uprawiać gimnastykę"
+},
+{
+"n": "do some drawing",
+"p": "rysować"
+},
+{
+"n": "go clubbing",
+"p": "chodzić do klubów"
+},
+{
+"n": "go fishing",
+"p": "chodzić na ryby"
+},
+{
+"n": "go jogging",
+"p": "biegać rekreacyjnie"
+},
+{
+"n": "go out for a meal",
+"p": "pójść do restauracji"
+},
+{
+"n": "go rollerblading",
+"p": "jeździć na rolkach"
+},
+{
+"n": "go skating",
+"p": "pójść na łyżwy"
+},
+{
+"n": "go to a party",
+"p": "pójść na imprezę"
+},
+{
+"n": "go to music gigs",
+"p": "chodzić na koncerty"
+},
+{
+"n": "go to the gym",
+"p": "chodzić na siłownię"
+},
+{
+"n": "have a party",
+"p": "zorganizować imprezę"
+},
+{
+"n": "have a night in",
+"p": "spędzić wieczór w domu"
+},
+{
+"n": "have a night out",
+"p": "wybrać się gdzieś wieczorem"
+},
+{
+"n": "play a musical instrument",
+"p": "grać na instrumencie muzycznym"
+},
+{
+"n": "play board games",
+"p": "grać w gry planszowe"
+},
+{
+"n": "play card games",
+"p": "grać w gry karciane"
+},
+{
+"n": "play computer games",
+"p": "grać w gry komputerowe"
+},
+{
+"n": "read blogs",
+"p": "czytać blogi"
+},
+{
+"n": "see friends",
+"p": "spotykać się ze znajomymi"
+},
+{
+"n": "spend time doing sth",
+"p": "spędzać czas na robieniu czegoś"
+},
+{
+"n": "take photographs",
+"p": "robić zdjęcia"
+},
+{
+"n": "take the dog for a walk",
+"p": "pójść z psem na spacer"
+},
+{
+"n": "take up a hobby",
+"p": "zająć się nowym hobby"
+},
+{
+"n": "visit an art exhibition",
+"p": "zobaczyć wystawę sztuki"
+},
+{
+"n": "watch a series online",
+"p": "oglądać serial w Internecie"
+},
+{
+"n": "anniversary",
+"p": "rocznica"
+},
+{
+"n": "best man",
+"p": "drużba"
+},
+{
+"n": "bouquet",
+"p": "bukiet"
+},
+{
+"n": "bridesmaid",
+"p": "druhna"
+},
+{
+"n": "carnival",
+"p": "karnawał"
+},
+{
+"n": "celebrate",
+"p": "obchodzić"
+},
+{
+"n": "celebration",
+"p": "uroczystość"
+},
+{
+"n": "christening",
+"p": "chrzciny"
+},
+{
+"n": "Christmas",
+"p": "Boże Narodzenie"
+},
+{
+"n": "church",
+"p": "kościół"
+},
+{
+"n": "congratulate",
+"p": "gratulować"
+},
+{
+"n": "contest",
+"p": "konkurs"
+},
+{
+"n": "custom",
+"p": "zwyczaj"
+},
+{
+"n": "dress up as",
+"p": "przebrać się za"
+},
+{
+"n": "Easter",
+"p": "Wielkanoc"
+},
+{
+"n": "fancy dress party",
+"p": "bal przebierańców"
+},
+{
+"n": "funeral",
+"p": "pogrzeb"
+},
+{
+"n": "grave",
+"p": "grób"
+},
+{
+"n": "greetings card",
+"p": "kartka z życzeniami"
+},
+{
+"n": "New Year's Day",
+"p": "Nowy Rok"
+},
+{
+"n": "priest",
+"p": "ksiądz"
+},
+{
+"n": "reception",
+"p": "przyjęcie"
+},
+{
+"n": "ring",
+"p": "pierścionek"
+},
+{
+"n": "service",
+"p": "nabożeństwo"
+},
+{
+"n": "Valentine's Day",
+"p": "walentynki"
+},
+{
+"n": "wedding",
+"p": "ślub"
+},
+{
+"n": "wrap a present",
+"p": "opakować prezent"
+},
+{
+"n": "unwrap a present",
+"p": "odpakować prezent"
+},
+{
+"n": "argue",
+"p": "kłócić się"
+},
+{
+"n": "argument",
+"p": "kłótnia"
+},
+{
+"n": "behave",
+"p": "zachowywać się"
+},
+{
+"n": "behaviour",
+"p": "zachowanie"
+},
+{
+"n": "break up with sb",
+"p": "zerwać z kimś"
+},
+{
+"n": "disagree",
+"p": "nie zgadzać się"
+},
+{
+"n": "disagreement",
+"p": "różnica zdań"
+},
+{
+"n": "discipline",
+"p": "dyscyplina"
+},
+{
+"n": "end a relationship",
+"p": "zakończyć związek"
+},
+{
+"n": "fall out with sb",
+"p": "pokłócić się z kimś"
+},
+{
+"n": "get a divorce",
+"p": "rozwieść się"
+},
+{
+"n": "get back together",
+"p": "wrócić do siebie"
+},
+{
+"n": "ground",
+"p": "dać szlaban na wychodzenie z domu"
+},
+{
+"n": "have a fight with sb",
+"p": "pokłócić się z kimś"
+},
+{
+"n": "let sb down",
+"p": "zawieść kogoś"
+},
+{
+"n": "look down on sb",
+"p": "patrzeć na kogoś z góry"
+},
+{
+"n": "make up with sb",
+"p": "pogodzić się z kimś"
+},
+{
+"n": "move in with sb",
+"p": "zamieszkać z kimś"
+},
+{
+"n": "offend sb",
+"p": "obrazić kogoś"
+},
+{
+"n": "rebel",
+"p": "buntować się"
+},
+{
+"n": "rebellion",
+"p": "bunt"
+},
+{
+"n": "respect other people",
+"p": "szanować innych ludzi"
+},
+{
+"n": "responsible",
+"p": "odpowiedzialny"
+},
+{
+"n": "run away from home",
+"p": "uciec z domu"
+},
+{
+"n": "split up",
+"p": "rozstać się"
+},
+{
+"n": "stick to the rules",
+"p": "trzymać się zasad"
+},
+{
+"n": "take someone's side",
+"p": "wziąć czyjąś stronę"
+},
+{
+"n": "walk out on sb",
+"p": "odejść od kogoś"
+},
+{
+"n": "take advantage of sb",
+"p": "wykorzystywać kogoś"
+},
+{
+"n": "take care of sb",
+"p": "troszczyć się o kogoś"
+},
+{
+"n": "take one's time",
+"p": "nie śpieszyć się"
+},
+{
+"n": "take part in sth",
+"p": "wziąć w czymś udział"
+},
+{
+"n": "take place",
+"p": "mieć miejsce"
+},
+{
+"n": "take sth out on sb",
+"p": "wyładowywać na kimś negatywne emocje"
+},
+{
+"n": "get sb down",
+"p": "przygnębić"
+},
+{
+"n": "handle",
+"p": "poradzić sobie"
+},
+{
+"n": "on the rocks",
+"p": "na krawędzi"
+},
+{
+"n": "suffer in silence",
+"p": "cierpieć w milczeniu"
+},
+{
+"n": "vent sth",
+"p": "wyładować"
+},
+{
+"n": "wound up",
+"p": "zdenerwowany"
+}
+]

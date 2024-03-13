@@ -1,0 +1,3362 @@
+[
+{
+"n": "divorced",
+"p": "rozwiedziony"
+},
+{
+"n": "female",
+"p": "kobieta"
+},
+{
+"n": "first name",
+"p": "imię"
+},
+{
+"n": "gender",
+"p": "płeć"
+},
+{
+"n": "male",
+"p": "mężczyzna"
+},
+{
+"n": "marital status",
+"p": "stan cywilny"
+},
+{
+"n": "married",
+"p": "żonaty"
+},
+{
+"n": "middle name",
+"p": "drugie imię"
+},
+{
+"n": "occupation",
+"p": "zawód"
+},
+{
+"n": "surname",
+"p": "nazwisko"
+},
+{
+"n": "widowed",
+"p": "owdowiały"
+},
+{
+"n": "biometric data",
+"p": "dane biometryczne"
+},
+{
+"n": "citizenship",
+"p": "obywatelstwo"
+},
+{
+"n": "country of residence",
+"p": "kraj zamieszkania"
+},
+{
+"n": "distinguishing features",
+"p": "znaki szczególne"
+},
+{
+"n": "ethnic origin",
+"p": "pochodzenie etniczne"
+},
+{
+"n": "next of kin",
+"p": "najbliższy krewny"
+},
+{
+"n": "elderly",
+"p": "starszy"
+},
+{
+"n": "good-looking",
+"p": "przystojny"
+},
+{
+"n": "handsome",
+"p": "przystojny"
+},
+{
+"n": "plain",
+"p": "pospolity"
+},
+{
+"n": "pretty",
+"p": "ładny"
+},
+{
+"n": "ugly",
+"p": "brzydki"
+},
+{
+"n": "in sb's early thirties",
+"p": "być po trzydziestce"
+},
+{
+"n": "in sb's middle thirties",
+"p": "mieć trzydzieści pięć lat"
+},
+{
+"n": "in sb's late thirties",
+"p": "być pod czterdziestkę"
+},
+{
+"n": "of medium height",
+"p": "średniego wzrostu"
+},
+{
+"n": "muscular",
+"p": "umięśniony"
+},
+{
+"n": "obese",
+"p": "otyły"
+},
+{
+"n": "overweight",
+"p": "z nadwagą"
+},
+{
+"n": "underweight",
+"p": "z niedowagą"
+},
+{
+"n": "plump",
+"p": "puszysty"
+},
+{
+"n": "skinny",
+"p": "chudy"
+},
+{
+"n": "slim",
+"p": "szczupły"
+},
+{
+"n": "chunky",
+"p": "przysadzisty"
+},
+{
+"n": "lanky",
+"p": "tyczkowaty"
+},
+{
+"n": "slim build",
+"p": "szczupła budowa"
+},
+{
+"n": "medium build",
+"p": "średnia budowa"
+},
+{
+"n": "stocky build",
+"p": "krępa budowa"
+},
+{
+"n": "curly",
+"p": "kręcone"
+},
+{
+"n": "dyed",
+"p": "farbowane"
+},
+{
+"n": "ginger",
+"p": "rude"
+},
+{
+"n": "plait",
+"p": "warkocz"
+},
+{
+"n": "shoulder-length",
+"p": "do ramion"
+},
+{
+"n": "straight",
+"p": "proste"
+},
+{
+"n": "wavy",
+"p": "falujące"
+},
+{
+"n": "fringe",
+"p": "grzywka"
+},
+{
+"n": "have a centre parting",
+"p": "mieć przedziałek na środku"
+},
+{
+"n": "have a side parting",
+"p": "mieć przedziałek z boku"
+},
+{
+"n": "ponytail",
+"p": "kitka"
+},
+{
+"n": "receding hairline",
+"p": "włosy rzednące na skroniach"
+},
+{
+"n": "wear your hair loose",
+"p": "nosić włosy rozpuszczone"
+},
+{
+"n": "wear your hair up",
+"p": "nosić włosy spięte"
+},
+{
+"n": "spiky",
+"p": "nastroszone włosy"
+},
+{
+"n": "beard",
+"p": "broda"
+},
+{
+"n": "freckles",
+"p": "piegi"
+},
+{
+"n": "moustache",
+"p": "wąsy"
+},
+{
+"n": "pale",
+"p": "blady"
+},
+{
+"n": "tanned",
+"p": "opalony"
+},
+{
+"n": "pierced ears",
+"p": "przekłute uszy"
+},
+{
+"n": "scar",
+"p": "blizna"
+},
+{
+"n": "spotty",
+"p": "pryszczaty"
+},
+{
+"n": "tattoo",
+"p": "tatuaż"
+},
+{
+"n": "wrinkles",
+"p": "zmarszczki"
+},
+{
+"n": "birthmark",
+"p": "znamię"
+},
+{
+"n": "dental brace",
+"p": "aparat na zęby"
+},
+{
+"n": "dimple",
+"p": "dołek w policzku"
+},
+{
+"n": "goatee",
+"p": "kozia bródka"
+},
+{
+"n": "high cheekbones",
+"p": "wystające kości policzkowe"
+},
+{
+"n": "high forehead",
+"p": "wysokie czoło"
+},
+{
+"n": "piercing blue eyes",
+"p": "przenikliwie niebieskie oczy"
+},
+{
+"n": "go for",
+"p": "wybierać"
+},
+{
+"n": "go for darker colours",
+"p": "wybierać ciemniejsze kolory"
+},
+{
+"n": "go grey",
+"p": "osiwieć"
+},
+{
+"n": "go bald",
+"p": "wyłysieć"
+},
+{
+"n": "paint your nails",
+"p": "malować paznokcie"
+},
+{
+"n": "put on weight",
+"p": "przybierać na wadze"
+},
+{
+"n": "lose weight",
+"p": "tracić na wadze"
+},
+{
+"n": "straighten",
+"p": "prostować"
+},
+{
+"n": "blouse",
+"p": "bluzka"
+},
+{
+"n": "boots",
+"p": "wysokie buty"
+},
+{
+"n": "fleece",
+"p": "bluza polarowa"
+},
+{
+"n": "high heels",
+"p": "wysokie obcasy"
+},
+{
+"n": "hoodie",
+"p": "bluza z kapturem"
+},
+{
+"n": "jacket",
+"p": "kurtka"
+},
+{
+"n": "jumper",
+"p": "sweter"
+},
+{
+"n": "pyjamas",
+"p": "piżama"
+},
+{
+"n": "sneakers",
+"p": "trampki"
+},
+{
+"n": "shoes",
+"p": "buty"
+},
+{
+"n": "smart",
+"p": "elegancki"
+},
+{
+"n": "suit",
+"p": "garnitur"
+},
+{
+"n": "sweatshirt",
+"p": "bluza sportowa"
+},
+{
+"n": "tracksuit",
+"p": "dres"
+},
+{
+"n": "underwear",
+"p": "bielizna"
+},
+{
+"n": "waistcoat",
+"p": "kamizelka"
+},
+{
+"n": "ballgown",
+"p": "suknia balowa"
+},
+{
+"n": "cardigan",
+"p": "rozpinany sweter"
+},
+{
+"n": "collar",
+"p": "kołnierzyk"
+},
+{
+"n": "creased",
+"p": "pognieciony"
+},
+{
+"n": "cuffs",
+"p": "mankiety"
+},
+{
+"n": "dressing gown",
+"p": "szlafrok"
+},
+{
+"n": "fluffy",
+"p": "puchaty"
+},
+{
+"n": "long-sleeved",
+"p": "z długim rękawem"
+},
+{
+"n": "short-sleeved",
+"p": "z krótkim rękawem"
+},
+{
+"n": "scruffy",
+"p": "niechlujny"
+},
+{
+"n": "strapless top",
+"p": "bluzka bez ramiączek"
+},
+{
+"n": "shabby",
+"p": "obdarty"
+},
+{
+"n": "sleeveless",
+"p": "bez rękawów"
+},
+{
+"n": "V-neck",
+"p": "dekolt w szpic"
+},
+{
+"n": "wellies",
+"p": "kalosze"
+},
+{
+"n": "belt",
+"p": "pasek"
+},
+{
+"n": "bracelet",
+"p": "bransoletka"
+},
+{
+"n": "button",
+"p": "guzik"
+},
+{
+"n": "earrings",
+"p": "kolczyki"
+},
+{
+"n": "gloves",
+"p": "rękawiczki"
+},
+{
+"n": "handbag",
+"p": "torebka"
+},
+{
+"n": "necklace",
+"p": "naszyjnik"
+},
+{
+"n": "ring",
+"p": "pierścionek"
+},
+{
+"n": "scarf",
+"p": "szalik"
+},
+{
+"n": "tie",
+"p": "krawat"
+},
+{
+"n": "brooch",
+"p": "broszka"
+},
+{
+"n": "shoe laces",
+"p": "sznurówki"
+},
+{
+"n": "slippers",
+"p": "kapcie"
+},
+{
+"n": "zip-up",
+"p": "na zamek"
+},
+{
+"n": "checked",
+"p": "w kratę"
+},
+{
+"n": "cotton",
+"p": "bawełna"
+},
+{
+"n": "denim",
+"p": "dżinsowy"
+},
+{
+"n": "fur",
+"p": "futro"
+},
+{
+"n": "leather",
+"p": "skóra"
+},
+{
+"n": "linen",
+"p": "lniany"
+},
+{
+"n": "silk",
+"p": "jedwab"
+},
+{
+"n": "spotted",
+"p": "w kropki"
+},
+{
+"n": "striped",
+"p": "w paski"
+},
+{
+"n": "wool",
+"p": "wełna"
+},
+{
+"n": "lacy",
+"p": "koronkowy"
+},
+{
+"n": "lined",
+"p": "na podszewce"
+},
+{
+"n": "tartan",
+"p": "w szkocką kratę"
+},
+{
+"n": "velvet",
+"p": "aksamitny"
+},
+{
+"n": "absent-minded",
+"p": "roztargniony"
+},
+{
+"n": "bad-tempered",
+"p": "wybuchowy"
+},
+{
+"n": "bossy",
+"p": "apodyktyczny"
+},
+{
+"n": "careful",
+"p": "ostrożny"
+},
+{
+"n": "careless",
+"p": "nieostrożny"
+},
+{
+"n": "confident",
+"p": "pewny siebie"
+},
+{
+"n": "overconfident",
+"p": "zbyt pewny siebie"
+},
+{
+"n": "easygoing",
+"p": "wyluzowany"
+},
+{
+"n": "extrovert",
+"p": "ekstrawertyk"
+},
+{
+"n": "gentle",
+"p": "delikatny"
+},
+{
+"n": "helpful",
+"p": "uczynny"
+},
+{
+"n": "unhelpful",
+"p": "nieskory do pomocy"
+},
+{
+"n": "honest",
+"p": "uczciwy"
+},
+{
+"n": "dishonest",
+"p": "nieuczciwy"
+},
+{
+"n": "imaginative",
+"p": "pomysłowy"
+},
+{
+"n": "unimaginative",
+"p": "bez wyobraźni"
+},
+{
+"n": "introvert",
+"p": "introwertyk"
+},
+{
+"n": "messy",
+"p": "bałaganiarski"
+},
+{
+"n": "modest",
+"p": "skromny"
+},
+{
+"n": "narrow-minded",
+"p": "ograniczony"
+},
+{
+"n": "optimistic",
+"p": "optymistyczny"
+},
+{
+"n": "pessimistic",
+"p": "pesymistyczny"
+},
+{
+"n": "outgoing",
+"p": "otwarty"
+},
+{
+"n": "patient",
+"p": "cierpliwy"
+},
+{
+"n": "impatient",
+"p": "niecierpliwy"
+},
+{
+"n": "polite",
+"p": "uprzejmy"
+},
+{
+"n": "impolite",
+"p": "nieuprzejmy"
+},
+{
+"n": "reliable",
+"p": "solidny"
+},
+{
+"n": "unreliable",
+"p": "niesolidny"
+},
+{
+"n": "selfish",
+"p": "samolubny"
+},
+{
+"n": "unselfish",
+"p": "bezinteresowny"
+},
+{
+"n": "sensitive",
+"p": "wrażliwy"
+},
+{
+"n": "sincere",
+"p": "szczery"
+},
+{
+"n": "sociable",
+"p": "towarzyski"
+},
+{
+"n": "unsociable",
+"p": "nietowarzyski"
+},
+{
+"n": "tidy",
+"p": "schludny"
+},
+{
+"n": "untidy",
+"p": "niechlujny"
+},
+{
+"n": "tolerant",
+"p": "tolerancyjny"
+},
+{
+"n": "intolerant",
+"p": "nietolerancyjny"
+},
+{
+"n": "trustworthy",
+"p": "godny zaufania"
+},
+{
+"n": "vain",
+"p": "próżny"
+},
+{
+"n": "bold",
+"p": "odważny"
+},
+{
+"n": "conceited",
+"p": "zarozumiały"
+},
+{
+"n": "cowardly",
+"p": "tchórzliwy"
+},
+{
+"n": "eccentric",
+"p": "ekscentryczny"
+},
+{
+"n": "humble",
+"p": "prosty"
+},
+{
+"n": "materialistic",
+"p": "materialistyczny"
+},
+{
+"n": "moody",
+"p": "kapryśny"
+},
+{
+"n": "straightforward",
+"p": "bezpośredni"
+},
+{
+"n": "sympathetic",
+"p": "życzliwy"
+},
+{
+"n": "timid",
+"p": "nieśmiały"
+},
+{
+"n": "withdrawn",
+"p": "zamknięty w sobie"
+},
+{
+"n": "annoyed",
+"p": "zirytowany"
+},
+{
+"n": "anxious",
+"p": "zaniepokojony"
+},
+{
+"n": "be in a good mood",
+"p": "być w dobrym humorze"
+},
+{
+"n": "be in a bad mood",
+"p": "być w złym humorze"
+},
+{
+"n": "embarrassed",
+"p": "zawstydzony"
+},
+{
+"n": "exhausted",
+"p": "wyczerpany"
+},
+{
+"n": "frightened",
+"p": "przerażony"
+},
+{
+"n": "pleased",
+"p": "zadowolony"
+},
+{
+"n": "scared",
+"p": "wystraszony"
+},
+{
+"n": "worried",
+"p": "zmartwiony"
+},
+{
+"n": "be frustrated with sth",
+"p": "być sfrustrowanym czymś"
+},
+{
+"n": "get frustrated with sth",
+"p": "zirytować się czymś"
+},
+{
+"n": "be over the moon",
+"p": "być wniebowziętym"
+},
+{
+"n": "delighted",
+"p": "zachwycony"
+},
+{
+"n": "feel blue",
+"p": "być przygnębionym"
+},
+{
+"n": "stressed",
+"p": "zestresowany"
+},
+{
+"n": "surprised",
+"p": "zdziwiony"
+},
+{
+"n": "get green with envy",
+"p": "zzielenieć z zazdrości"
+},
+{
+"n": "go pale",
+"p": "zblednąć"
+},
+{
+"n": "go red",
+"p": "zaczerwienić się"
+},
+{
+"n": "hit the roof",
+"p": "wściec się"
+},
+{
+"n": "petrified",
+"p": "przerażony"
+},
+{
+"n": "stunned",
+"p": "oniemiały"
+},
+{
+"n": "worn out",
+"p": "wycieńczony"
+},
+{
+"n": "tired",
+"p": "zmęczony"
+},
+{
+"n": "upset",
+"p": "przygnębiony"
+},
+{
+"n": "adore",
+"p": "uwielbiać"
+},
+{
+"n": "be a fan of sb",
+"p": "być fanem kogoś"
+},
+{
+"n": "be a fan of sth",
+"p": "być fanem czegoś"
+},
+{
+"n": "be hopeless at sth",
+"p": "być beznadziejnym w czymś"
+},
+{
+"n": "be into sth",
+"p": "zajmować się czymś"
+},
+{
+"n": "be keen on sth",
+"p": "interesować się czymś"
+},
+{
+"n": "be mad about sb",
+"p": "szaleć za kimś"
+},
+{
+"n": "be mad about sth",
+"p": "szaleć za czymś"
+},
+{
+"n": "can't stand",
+"p": "nie znosić"
+},
+{
+"n": "cut down on sth",
+"p": "ograniczać ilość czegoś"
+},
+{
+"n": "indoor activities",
+"p": "aktywności wykonywane wewnątrz budynków"
+},
+{
+"n": "outdoor activities",
+"p": "aktywności wykonywane na zewnątrz budynków"
+},
+{
+"n": "take up a hobby",
+"p": "znaleźć sobie jakieś hobby"
+},
+{
+"n": "take up a sport",
+"p": "zacząć uprawiać sport"
+},
+{
+"n": "approve of sth",
+"p": "pochwalać coś"
+},
+{
+"n": "disapprove of sth",
+"p": "nie pochwalać czegoś"
+},
+{
+"n": "attitude towards sth",
+"p": "postawa wobec czegoś"
+},
+{
+"n": "change one's mind",
+"p": "zmienić zdanie"
+},
+{
+"n": "freedom of speech",
+"p": "wolność słowa"
+},
+{
+"n": "kindness",
+"p": "życzliwość"
+},
+{
+"n": "respect",
+"p": "szacunek"
+},
+{
+"n": "take pride in sth",
+"p": "być z czegoś dumnym"
+},
+{
+"n": "value",
+"p": "wartość"
+},
+{
+"n": "wisdom",
+"p": "mądrość"
+},
+{
+"n": "be indifferent to sth",
+"p": "być obojętnym na coś"
+},
+{
+"n": "compassion",
+"p": "współczucie"
+},
+{
+"n": "loyalty",
+"p": "lojalność"
+},
+{
+"n": "morality",
+"p": "moralność"
+},
+{
+"n": "prosperity",
+"p": "dobrobyt"
+},
+{
+"n": "diversity",
+"p": "różnorodność"
+},
+{
+"n": "solidarity",
+"p": "solidarnosć"
+},
+{
+"n": "virtue",
+"p": "cnota"
+},
+{
+"n": "cultural norms",
+"p": "normy kulturowe"
+},
+{
+"n": "legal norms",
+"p": "normy prawne"
+},
+{
+"n": "admire sb for sth",
+"p": "podziwiać kogoś za coś"
+},
+{
+"n": "be a role-model",
+"p": "być wzorem do naśladowania"
+},
+{
+"n": "be inspired by sb",
+"p": "zainspirować się kimś"
+},
+{
+"n": "be inspired by sth",
+"p": "zainspirować się czymś"
+},
+{
+"n": "look up to sb",
+"p": "podziwiać kogoś"
+},
+{
+"n": "self-esteem",
+"p": "samoocena"
+},
+{
+"n": "challenge authority",
+"p": "kwestionować autorytet"
+},
+{
+"n": "imitate sb",
+"p": "naśladować kogoś"
+},
+{
+"n": "imitate sth",
+"p": "naśladować coś"
+},
+{
+"n": "inspirational",
+"p": "inspirujący"
+},
+{
+"n": "recognise one's authority",
+"p": "uznawać czyjś autorytet"
+},
+{
+"n": "be in awe of sb",
+"p": "być pod wrażeniem kogoś"
+},
+{
+"n": "be in awe of sth",
+"p": "być pod wrażeniem czegoś"
+},
+{
+"n": "cultural identity",
+"p": "tożsamość kulturowa"
+},
+{
+"n": "define yourself",
+"p": "zdefiniować siebie"
+},
+{
+"n": "individuality",
+"p": "indywidualność"
+},
+{
+"n": "integrity",
+"p": "integralność"
+},
+{
+"n": "moral code",
+"p": "kodeks moralny"
+},
+{
+"n": "recognise one's strengths",
+"p": "rozpoznać swoje mocne strony"
+},
+{
+"n": "self-image",
+"p": "obraz siebie"
+},
+{
+"n": "sense of self",
+"p": "poczucie siebie"
+},
+{
+"n": "generate an alternative",
+"p": "wytworzyć alternatywne rozwiązanie"
+},
+{
+"n": "come up with an idea",
+"p": "wpaść na pomysł"
+},
+{
+"n": "think outside the box",
+"p": "myśleć w nieszablonowy sposób"
+},
+{
+"n": "think creatively",
+"p": "myśleć w twórczy sposób"
+},
+{
+"n": "solve a problem",
+"p": "rozwiązać problem"
+},
+{
+"n": "work out a dilemma",
+"p": "znaleźć rozwiązanie"
+},
+{
+"n": "think from different perspectives",
+"p": "rozpatrywać kwestię z różnych punktów widzenia"
+},
+{
+"n": "stand out from the crowd",
+"p": "wyróżniać się"
+},
+{
+"n": "communication breakdown",
+"p": "załamanie komunikacji"
+},
+{
+"n": "core values",
+"p": "wartości fundamentalne dla danej osoby"
+},
+{
+"n": "gain self-esteem",
+"p": "zyskać poczucie własnej wartości"
+},
+{
+"n": "foster cooperation",
+"p": "sprzyjać współpracy"
+},
+{
+"n": "cross one's legs",
+"p": "skrzyżować nogi"
+},
+{
+"n": "fidget",
+"p": "kręcić się"
+},
+{
+"n": "fold one's arms",
+"p": "założyć ręce"
+},
+{
+"n": "hang one's head",
+"p": "zwiesić głowę"
+},
+{
+"n": "immaculate",
+"p": "nieskazitelny"
+},
+{
+"n": "inbuilt",
+"p": "naturalny"
+},
+{
+"n": "make eye contact",
+"p": "nawiązać kontakt wzrokowy"
+},
+{
+"n": "move briskly",
+"p": "dziarsko się ruszać"
+},
+{
+"n": "reveal",
+"p": "odsłonić"
+},
+{
+"n": "roll one's eyes",
+"p": "przewracać oczami"
+},
+{
+"n": "engage in sth",
+"p": "zaangażować się w coś"
+},
+{
+"n": "increase one's life expectancy",
+"p": "zwiększyć oczekiwaną długość życia"
+},
+{
+"n": "pass on",
+"p": "przekazać"
+},
+{
+"n": "realize one's full growth potential",
+"p": "zrealizować pełen potencjał wzrostu"
+},
+{
+"n": "reduce in size",
+"p": "zmniejszyć rozmiar"
+},
+{
+"n": "block of flats",
+"p": "blok mieszkalny"
+},
+{
+"n": "bungalow",
+"p": "dom parterowy"
+},
+{
+"n": "cabin",
+"p": "chata"
+},
+{
+"n": "cottage",
+"p": "domek wiejski"
+},
+{
+"n": "detached house",
+"p": "wolnostojący dom jednorodzinny"
+},
+{
+"n": "farmhouse",
+"p": "dom w gospodarstwie rolnym"
+},
+{
+"n": "housing estate",
+"p": "osiedle mieszkaniowe"
+},
+{
+"n": "mansion",
+"p": "pałac"
+},
+{
+"n": "nursing home",
+"p": "dom spokojnej starości"
+},
+{
+"n": "semi-detached house",
+"p": "bliźniak"
+},
+{
+"n": "studio flat",
+"p": "kawalerka"
+},
+{
+"n": "terraced house",
+"p": "dom szeregowy"
+},
+{
+"n": "affordable",
+"p": "w przystępnej cenie"
+},
+{
+"n": "all mod cons",
+"p": "wszystkie wygody"
+},
+{
+"n": "bedsit",
+"p": "kawalerka do wynajęcia"
+},
+{
+"n": "gated community",
+"p": "osiedle zamknięte"
+},
+{
+"n": "mobile home",
+"p": "przyczepa mieszkalna"
+},
+{
+"n": "sheltered accommodation",
+"p": "mieszkania dla osób wymagających opieki"
+},
+{
+"n": "family home",
+"p": "dom rodzinny"
+},
+{
+"n": "skyscraper",
+"p": "wieżowiec"
+},
+{
+"n": "across the road from",
+"p": "po drugiej stronie ulicy"
+},
+{
+"n": "central location",
+"p": "centralne położenie"
+},
+{
+"n": "commute",
+"p": "dojeżdżać do pracy lub do szkoły"
+},
+{
+"n": "district",
+"p": "dzielnica"
+},
+{
+"n": "in a rural area",
+"p": "w wiejskiej okolicy"
+},
+{
+"n": "in the countryside",
+"p": "na wsi"
+},
+{
+"n": "in the middle of nowhere",
+"p": "na odludziu"
+},
+{
+"n": "in the suburbs",
+"p": "na przedmieściach"
+},
+{
+"n": "inhabitant",
+"p": "mieszkaniec"
+},
+{
+"n": "located",
+"p": "położony"
+},
+{
+"n": "neighbour",
+"p": "sąsiad"
+},
+{
+"n": "neighbourhood",
+"p": "sąsiedztwo"
+},
+{
+"n": "Old Town",
+"p": "Stare Miasto"
+},
+{
+"n": "on the edge of",
+"p": "na skraju czegoś"
+},
+{
+"n": "overlook",
+"p": "wychodzić na"
+},
+{
+"n": "public transport",
+"p": "transport publiczny"
+},
+{
+"n": "residents",
+"p": "mieszkańcy"
+},
+{
+"n": "village",
+"p": "wioska"
+},
+{
+"n": "a stone's throw from",
+"p": "niedaleko od"
+},
+{
+"n": "amenities",
+"p": "udogodnienia"
+},
+{
+"n": "hustle and bustle",
+"p": "zgiełk"
+},
+{
+"n": "in the heart of the countryside",
+"p": "na głębokiej wsi"
+},
+{
+"n": "lane",
+"p": "dróżka"
+},
+{
+"n": "leafy",
+"p": "liściasty"
+},
+{
+"n": "off the beaten track",
+"p": "na uboczu"
+},
+{
+"n": "within walking distance of",
+"p": "w bliskiej odległości"
+},
+{
+"n": "attic",
+"p": "strych"
+},
+{
+"n": "basement",
+"p": "piwnica"
+},
+{
+"n": "carport",
+"p": "wiata na samochód"
+},
+{
+"n": "ceiling",
+"p": "sufit"
+},
+{
+"n": "chimney",
+"p": "komin"
+},
+{
+"n": "downstairs",
+"p": "na dole"
+},
+{
+"n": "drive",
+"p": "podjazd"
+},
+{
+"n": "fence",
+"p": "ogrodzenie"
+},
+{
+"n": "fireplace",
+"p": "kominek"
+},
+{
+"n": "front door",
+"p": "drzwi frontowe"
+},
+{
+"n": "back door",
+"p": "drzwi tylne"
+},
+{
+"n": "gate",
+"p": "brama"
+},
+{
+"n": "hedge",
+"p": "żywopłot"
+},
+{
+"n": "ground floor",
+"p": "parter"
+},
+{
+"n": "laundry room",
+"p": "domowa pralnia"
+},
+{
+"n": "lawn",
+"p": "trawnik"
+},
+{
+"n": "living room",
+"p": "salon"
+},
+{
+"n": "loft",
+"p": "strych"
+},
+{
+"n": "porch",
+"p": "ganek"
+},
+{
+"n": "roof",
+"p": "dach"
+},
+{
+"n": "shed",
+"p": "szopa"
+},
+{
+"n": "staircase",
+"p": "klatka schodowa"
+},
+{
+"n": "steps",
+"p": "schodki"
+},
+{
+"n": "study",
+"p": "gabinet"
+},
+{
+"n": "upstairs",
+"p": "na górze"
+},
+{
+"n": "extension",
+"p": "przybudówka"
+},
+{
+"n": "landing",
+"p": "półpiętro"
+},
+{
+"n": "larder",
+"p": "spiżarnia"
+},
+{
+"n": "utility room",
+"p": "pomieszczenie gospodarcze"
+},
+{
+"n": "walk-in closet",
+"p": "garderoba"
+},
+{
+"n": "lift",
+"p": "winda"
+},
+{
+"n": "yard",
+"p": "dziedziniec"
+},
+{
+"n": "airy",
+"p": "przestronny"
+},
+{
+"n": "badly-decorated",
+"p": "źle wykończony"
+},
+{
+"n": "bright",
+"p": "jasny"
+},
+{
+"n": "cluttered",
+"p": "zagracony"
+},
+{
+"n": "convert",
+"p": "przerobić"
+},
+{
+"n": "cosy",
+"p": "przytulny"
+},
+{
+"n": "dusty",
+"p": "zakurzony"
+},
+{
+"n": "eco-friendly",
+"p": "przyjazny dla środowiska"
+},
+{
+"n": "furnished",
+"p": "umeblowany"
+},
+{
+"n": "unfurnished",
+"p": "nieumeblowany"
+},
+{
+"n": "homely",
+"p": "przytulny"
+},
+{
+"n": "luxurious",
+"p": "luksusowy"
+},
+{
+"n": "maintain",
+"p": "utrzymywać"
+},
+{
+"n": "mud",
+"p": "błoto"
+},
+{
+"n": "old-fashioned",
+"p": "staromodny"
+},
+{
+"n": "open-plan",
+"p": "bez ścian działowych"
+},
+{
+"n": "second-hand",
+"p": "używany"
+},
+{
+"n": "spacious",
+"p": "przestronny"
+},
+{
+"n": "steel",
+"p": "stalowy"
+},
+{
+"n": "stone",
+"p": "kamienny"
+},
+{
+"n": "tidy",
+"p": "posprzątany"
+},
+{
+"n": "untidy",
+"p": "nieposprzątany"
+},
+{
+"n": "wooden",
+"p": "drewniany"
+},
+{
+"n": "antique",
+"p": "zabytkowy"
+},
+{
+"n": "cramped",
+"p": "ciasny"
+},
+{
+"n": "dingy",
+"p": "obskurny"
+},
+{
+"n": "dilapidated",
+"p": "zniszczony"
+},
+{
+"n": "in need of renovation",
+"p": "do remontu"
+},
+{
+"n": "oak",
+"p": "dębowy"
+},
+{
+"n": "stuffy",
+"p": "duszny"
+},
+{
+"n": "quaint",
+"p": "osobliwy"
+},
+{
+"n": "unique-looking",
+"p": "o unikalnym wyglądzie"
+},
+{
+"n": "under construction",
+"p": "w budowie"
+},
+{
+"n": "well-maintained",
+"p": "dobrze utrzymany"
+},
+{
+"n": "air conditioning",
+"p": "klimatyzacja"
+},
+{
+"n": "alarm clock",
+"p": "budzik"
+},
+{
+"n": "bath mat",
+"p": "dywanik łazienkowy"
+},
+{
+"n": "bedside table",
+"p": "stolik nocny"
+},
+{
+"n": "blanket",
+"p": "koc"
+},
+{
+"n": "blinds",
+"p": "rolety"
+},
+{
+"n": "carpet",
+"p": "dywan"
+},
+{
+"n": "central heating",
+"p": "centralne ogrzewanie"
+},
+{
+"n": "chest of drawers",
+"p": "komoda"
+},
+{
+"n": "coffee maker",
+"p": "ekspres do kawy"
+},
+{
+"n": "cooker",
+"p": "kuchenka"
+},
+{
+"n": "cupboard",
+"p": "szafka kuchenna"
+},
+{
+"n": "curtains",
+"p": "zasłony"
+},
+{
+"n": "net curtains",
+"p": "firanki"
+},
+{
+"n": "cushion",
+"p": "poduszka dekoracyjna"
+},
+{
+"n": "dishwasher",
+"p": "zmywarka"
+},
+{
+"n": "doormat",
+"p": "wycieraczka"
+},
+{
+"n": "double bed",
+"p": "podwójne łóżko"
+},
+{
+"n": "duvet",
+"p": "kołdra"
+},
+{
+"n": "electric kettle",
+"p": "czajnik elektryczny"
+},
+{
+"n": "kitchen island",
+"p": "wyspa kuchenna"
+},
+{
+"n": "kitchen appliances",
+"p": "urządzenia kuchenne"
+},
+{
+"n": "lighting",
+"p": "oświetlenie"
+},
+{
+"n": "microwave",
+"p": "kuchenka mikrofalowa"
+},
+{
+"n": "oven",
+"p": "piekarnik"
+},
+{
+"n": "pillow",
+"p": "poduszka"
+},
+{
+"n": "potted plant",
+"p": "roślina doniczkowa"
+},
+{
+"n": "rug",
+"p": "dywanik"
+},
+{
+"n": "sheet",
+"p": "prześcieradło"
+},
+{
+"n": "shelf",
+"p": "półka"
+},
+{
+"n": "single bed",
+"p": "pojedyncze łóżko"
+},
+{
+"n": "toaster",
+"p": "toster"
+},
+{
+"n": "toilet",
+"p": "toaleta"
+},
+{
+"n": "towel rail",
+"p": "wieszak na ręczniki"
+},
+{
+"n": "TV set",
+"p": "telewizor"
+},
+{
+"n": "wallpaper",
+"p": "tapeta"
+},
+{
+"n": "washbasin",
+"p": "umywalka"
+},
+{
+"n": "washing machine",
+"p": "pralka"
+},
+{
+"n": "bare floor",
+"p": "goła podłoga"
+},
+{
+"n": "bedspread",
+"p": "narzuta na łóżko"
+},
+{
+"n": "bedding",
+"p": "pościel"
+},
+{
+"n": "burglar alarm",
+"p": "alarm antywłamaniowy"
+},
+{
+"n": "bunk bed",
+"p": "łóżko piętrowe"
+},
+{
+"n": "countertop",
+"p": "blat kuchenny"
+},
+{
+"n": "dish drainer",
+"p": "suszarka do naczyń"
+},
+{
+"n": "double-glazed window",
+"p": "okno z podwójną szybą"
+},
+{
+"n": "fish pond",
+"p": "oczko wodne"
+},
+{
+"n": "fitted carpet",
+"p": "wykładzina dywanowa"
+},
+{
+"n": "floorboards",
+"p": "deski podłogowe"
+},
+{
+"n": "floor tiles",
+"p": "kafelki podłogowe"
+},
+{
+"n": "flowerbed",
+"p": "klomb"
+},
+{
+"n": "fruit bowl",
+"p": "miska na owoce"
+},
+{
+"n": "heater",
+"p": "grzejnik"
+},
+{
+"n": "heating system",
+"p": "system grzewczy"
+},
+{
+"n": "kitchen utensils",
+"p": "przybory kuchenne"
+},
+{
+"n": "mantelpiece",
+"p": "półka nad kominkiem"
+},
+{
+"n": "ornament",
+"p": "ozdoba"
+},
+{
+"n": "office chair",
+"p": "krzesło biurowe"
+},
+{
+"n": "rack",
+"p": "półka"
+},
+{
+"n": "radiator",
+"p": "kaloryfer"
+},
+{
+"n": "shutters",
+"p": "okiennice"
+},
+{
+"n": "silver frame",
+"p": "srebrna ramka"
+},
+{
+"n": "smoke alarm",
+"p": "alarm przeciwpożarowy"
+},
+{
+"n": "solar panels",
+"p": "panele słoneczne"
+},
+{
+"n": "stair rail",
+"p": "poręcz przy schodach"
+},
+{
+"n": "stool",
+"p": "stołek"
+},
+{
+"n": "windowsill",
+"p": "parapet okienny"
+},
+{
+"n": "brush",
+"p": "szczotka"
+},
+{
+"n": "change the sheets",
+"p": "zmieniać pościel"
+},
+{
+"n": "dustpan",
+"p": "szufelka"
+},
+{
+"n": "do the gardening",
+"p": "pracować w ogrodzie"
+},
+{
+"n": "do the grocery shopping",
+"p": "robić zakupy spożywcze"
+},
+{
+"n": "do the laundry",
+"p": "robić pranie"
+},
+{
+"n": "do the housework",
+"p": "zajmować się domem"
+},
+{
+"n": "dust the furniture",
+"p": "wycierać kurz z mebli"
+},
+{
+"n": "empty the dishwasher",
+"p": "opróżniać zmywarkę"
+},
+{
+"n": "empty the rubbish bin",
+"p": "opróżniać kosz na śmieci"
+},
+{
+"n": "have a clear-out",
+"p": "pozbywać się niepotrzebnych rzeczy"
+},
+{
+"n": "have green fingers",
+"p": "mieć dobrą rękę do roślin"
+},
+{
+"n": "hoover the carpet",
+"p": "odkurzać dywan"
+},
+{
+"n": "iron the clothes",
+"p": "prasować ubrania"
+},
+{
+"n": "keep sth neat and tidy",
+"p": "utrzymywać coś w nienagannym porządku"
+},
+{
+"n": "make improvements",
+"p": "wprowadzać ulepszenia"
+},
+{
+"n": "make the bed",
+"p": "ścielić łóżko"
+},
+{
+"n": "mop the floor",
+"p": "wycierać podłogę mopem"
+},
+{
+"n": "mow the lawn",
+"p": "kosić trawnik"
+},
+{
+"n": "renovate a corridor",
+"p": "odnowić korytarz"
+},
+{
+"n": "rubber gloves",
+"p": "gumowe rękawiczki"
+},
+{
+"n": "shopping bag",
+"p": "torba na zakupy"
+},
+{
+"n": "sponge",
+"p": "gąbka"
+},
+{
+"n": "sweep the floor",
+"p": "zamiatać podłogę"
+},
+{
+"n": "tea towel",
+"p": "ścierka"
+},
+{
+"n": "broom",
+"p": "miotła"
+},
+{
+"n": "duster",
+"p": "ściereczka do kurzu"
+},
+{
+"n": "lawnmower",
+"p": "kosiarka"
+},
+{
+"n": "mend a dripping tap",
+"p": "naprawić cieknący kran"
+},
+{
+"n": "rake",
+"p": "grabie"
+},
+{
+"n": "spade",
+"p": "szpadel"
+},
+{
+"n": "trowel",
+"p": "rydel ogrodniczy"
+},
+{
+"n": "accommodation",
+"p": "zakwaterowanie"
+},
+{
+"n": "ad",
+"p": "ogłoszenie"
+},
+{
+"n": "auction",
+"p": "aukcja"
+},
+{
+"n": "bill",
+"p": "rachunek"
+},
+{
+"n": "budget",
+"p": "budżet"
+},
+{
+"n": "deposit",
+"p": "kaucja"
+},
+{
+"n": "estate agent",
+"p": "agent nieruchomości"
+},
+{
+"n": "flatmate",
+"p": "współlokator"
+},
+{
+"n": "live on one's own",
+"p": "mieszkać samemu"
+},
+{
+"n": "move house",
+"p": "przeprowadzić się"
+},
+{
+"n": "move in",
+"p": "wprowadzić się"
+},
+{
+"n": "move out",
+"p": "wyprowadzić się"
+},
+{
+"n": "notice",
+"p": "wypowiedzenie"
+},
+{
+"n": "pay in advance",
+"p": "zapłacić z góry"
+},
+{
+"n": "payment",
+"p": "płatność"
+},
+{
+"n": "removal van",
+"p": "samochód służący do przewożenia mebli"
+},
+{
+"n": "rent",
+"p": "wynająć"
+},
+{
+"n": "share a room",
+"p": "dzielić z kimś pokój"
+},
+{
+"n": "share a flat",
+"p": "dzielić z kimś mieszkanie"
+},
+{
+"n": "share a house",
+"p": "dzielić z kimś dom"
+},
+{
+"n": "to let",
+"p": "do wynajęcia"
+},
+{
+"n": "bid",
+"p": "oferta w licytacji"
+},
+{
+"n": "housewarming party",
+"p": "parapetówka"
+},
+{
+"n": "instalments",
+"p": "raty"
+},
+{
+"n": "per week",
+"p": "tygodniowo"
+},
+{
+"n": "per month",
+"p": "miesięcznie"
+},
+{
+"n": "take out a mortgage",
+"p": "wziąć kredyt hipoteczny"
+},
+{
+"n": "tenant",
+"p": "lokator"
+},
+{
+"n": "landlord",
+"p": "właściciel mieszkania lub domu"
+},
+{
+"n": "landlady",
+"p": "właścicielka mieszkania lub domu"
+},
+{
+"n": "blueprint",
+"p": "projekt"
+},
+{
+"n": "brick",
+"p": "cegła"
+},
+{
+"n": "building site",
+"p": "plac budowy"
+},
+{
+"n": "classical",
+"p": "klasyczny"
+},
+{
+"n": "concrete",
+"p": "beton"
+},
+{
+"n": "construct",
+"p": "zbudować"
+},
+{
+"n": "demolish",
+"p": "zburzyć"
+},
+{
+"n": "derelict",
+"p": "opuszczony"
+},
+{
+"n": "exterior",
+"p": "fasada"
+},
+{
+"n": "eyesore",
+"p": "brzydactwo"
+},
+{
+"n": "feature",
+"p": "cecha"
+},
+{
+"n": "foundation",
+"p": "podstawa"
+},
+{
+"n": "iconic",
+"p": "znany"
+},
+{
+"n": "interior",
+"p": "wnętrze"
+},
+{
+"n": "marble",
+"p": "marmurowy"
+},
+{
+"n": "modernist",
+"p": "modernistyczny"
+},
+{
+"n": "planning permission",
+"p": "pozwolenie na budowę"
+},
+{
+"n": "plate glass",
+"p": "tafla szkła"
+},
+{
+"n": "public building",
+"p": "budynek użyteczności publicznej"
+},
+{
+"n": "commercial building",
+"p": "budynek komercyjny"
+},
+{
+"n": "historic building",
+"p": "budynek historyczny"
+},
+{
+"n": "pull down",
+"p": "burzyć"
+},
+{
+"n": "put up",
+"p": "zbudować"
+},
+{
+"n": "single-storey",
+"p": "jednopiętrowy"
+},
+{
+"n": "multi-storey",
+"p": "wielopiętrowy"
+},
+{
+"n": "symmetrical",
+"p": "symetryczny"
+},
+{
+"n": "urban",
+"p": "miejski"
+},
+{
+"n": "skyline",
+"p": "sylwetka budynku na tle nieba"
+},
+{
+"n": "structure",
+"p": "struktura"
+},
+{
+"n": "chore",
+"p": "obowiązek"
+},
+{
+"n": "cleanliness",
+"p": "czystość"
+},
+{
+"n": "get rid of sth",
+"p": "pozbyć się czegoś"
+},
+{
+"n": "put money aside",
+"p": "odkładać pieniądze"
+},
+{
+"n": "put sth away",
+"p": "odkładać coś na swoje miejsce"
+},
+{
+"n": "put sth off",
+"p": "odkładać coś na później"
+},
+{
+"n": "put the kettle on",
+"p": "zagotować wodę"
+},
+{
+"n": "put up with sth",
+"p": "znosić coś"
+},
+{
+"n": "spotless",
+"p": "nieskazitelnie czysty"
+},
+{
+"n": "throw sth away",
+"p": "wyrzucić coś"
+},
+{
+"n": "arch",
+"p": "łuk"
+},
+{
+"n": "chamber",
+"p": "komnata"
+},
+{
+"n": "dome",
+"p": "kopuła"
+},
+{
+"n": "edifice",
+"p": "gmach"
+},
+{
+"n": "landmark",
+"p": "budynek charakterystyczny dla danego miejsca"
+},
+{
+"n": "mausoleum",
+"p": "grobowiec"
+},
+{
+"n": "monument",
+"p": "pomnik"
+},
+{
+"n": "post",
+"p": "słup"
+},
+{
+"n": "temple",
+"p": "świątynia"
+},
+{
+"n": "walkway",
+"p": "kładka"
+},
+{
+"n": "chrome door handle",
+"p": "chromowane klamki do drzwi"
+},
+{
+"n": "creaky stairs",
+"p": "skrzypiące schody"
+},
+{
+"n": "overgrown garden",
+"p": "zarośnięty ogród"
+},
+{
+"n": "overhead lighting",
+"p": "górne oświetlenie"
+},
+{
+"n": "underfloor heating",
+"p": "ogrzewanie podłogowe"
+},
+{
+"n": "bedroom dimensions",
+"p": "wymiary sypialni"
+},
+{
+"n": "cracked plaster",
+"p": "pęknięty tynk"
+},
+{
+"n": "ill-fitting shutters",
+"p": "źle dopasowane okiennice"
+},
+{
+"n": "large-scale project",
+"p": "projekt na dużą skalę"
+},
+{
+"n": "leaky pipe",
+"p": "nieszczelna rura"
+},
+{
+"n": "rising damp",
+"p": "podciągająca wilgoć"
+},
+{
+"n": "storage space",
+"p": "przestrzeń do przechowywania"
+},
+{
+"n": "blocked drain",
+"p": "zatkany odpływ"
+},
+{
+"n": "canteen",
+"p": "stołówka"
+},
+{
+"n": "common room",
+"p": "świetlica"
+},
+{
+"n": "head teacher's office",
+"p": "gabinet dyrektora szkoły"
+},
+{
+"n": "laboratory",
+"p": "pracownia"
+},
+{
+"n": "lecture hall",
+"p": "aula"
+},
+{
+"n": "locker room",
+"p": "szatnia"
+},
+{
+"n": "secretary's office",
+"p": "sekretariat"
+},
+{
+"n": "sports field",
+"p": "boisko"
+},
+{
+"n": "staffroom",
+"p": "pokój nauczycielski"
+},
+{
+"n": "archaeology",
+"p": "archeologia"
+},
+{
+"n": "architecture",
+"p": "architektura"
+},
+{
+"n": "arts subjects",
+"p": "przedmioty artystyczne"
+},
+{
+"n": "banking and finance",
+"p": "bankowość i finanse"
+},
+{
+"n": "chemistry",
+"p": "chemia"
+},
+{
+"n": "engineering",
+"p": "inżynieria"
+},
+{
+"n": "foreign languages",
+"p": "języki obce"
+},
+{
+"n": "humanities",
+"p": "nauki humanistyczne"
+},
+{
+"n": "information technology",
+"p": "informatyka"
+},
+{
+"n": "journalism",
+"p": "dziennikarstwo"
+},
+{
+"n": "law",
+"p": "prawo"
+},
+{
+"n": "marketing and management",
+"p": "marketing i zarządzanie"
+},
+{
+"n": "medicine",
+"p": "medycyna"
+},
+{
+"n": "physical education",
+"p": "wychowanie fizyczne"
+},
+{
+"n": "physics",
+"p": "fizyka"
+},
+{
+"n": "psychology",
+"p": "psychologia"
+},
+{
+"n": "science subjects",
+"p": "przedmioty ścisłe"
+},
+{
+"n": "social sciences",
+"p": "nauki społeczne"
+},
+{
+"n": "sociology",
+"p": "socjologia"
+},
+{
+"n": "biotechnology",
+"p": "biotechnologia"
+},
+{
+"n": "choreography",
+"p": "choreografia"
+},
+{
+"n": "design and technology",
+"p": "technika"
+},
+{
+"n": "economic education",
+"p": "ekonomia"
+},
+{
+"n": "environmental science",
+"p": "nauka o ochronie środowiska"
+},
+{
+"n": "media studies",
+"p": "medioznawstwo"
+},
+{
+"n": "political science",
+"p": "politologia"
+},
+{
+"n": "sports psychology",
+"p": "psychologia sportu"
+},
+{
+"n": "all-round development",
+"p": "wszechstronny rozwój"
+},
+{
+"n": "attend a course",
+"p": "uczęszczać na kurs"
+},
+{
+"n": "be curious",
+"p": "być ciekawym"
+},
+{
+"n": "brainstorm ideas",
+"p": "omawiać różne pomysły"
+},
+{
+"n": "concentrate on sth",
+"p": "skupić się na czymś"
+},
+{
+"n": "critical thinking",
+"p": "myślenie krytyczne"
+},
+{
+"n": "motivate",
+"p": "motywować"
+},
+{
+"n": "motivating",
+"p": "motywujący"
+},
+{
+"n": "personal development",
+"p": "rozwój osobisty"
+},
+{
+"n": "put a plan into action",
+"p": "wprowadzić plan w życie"
+},
+{
+"n": "revise for sth",
+"p": "powtarzać do czegoś"
+},
+{
+"n": "self-management",
+"p": "zarządzanie sobą"
+},
+{
+"n": "self-motivation",
+"p": "wewnętrzna motywacja"
+},
+{
+"n": "set goals",
+"p": "wyznaczać sobie cele"
+},
+{
+"n": "struggle with sth",
+"p": "zmagać się z czymś"
+},
+{
+"n": "take notes",
+"p": "robić notatki"
+},
+{
+"n": "concentration span",
+"p": "czas skupieia uwagi"
+},
+{
+"n": "identify your learning style",
+"p": "zidentyfikować swój styl uczenia się"
+},
+{
+"n": "improve employability",
+"p": "poprawić szanse na zatrudnienie"
+},
+{
+"n": "know sth inside out",
+"p": "wiedzieć coś bardzo dobrze"
+},
+{
+"n": "memory aid",
+"p": "technika ułatwiająca zapamiętywanie"
+},
+{
+"n": "outperform",
+"p": "prześcignąć"
+},
+{
+"n": "pursuit of knowledge",
+"p": "zdobywanie wiedzy"
+},
+{
+"n": "chalk",
+"p": "kreda"
+},
+{
+"n": "compasses",
+"p": "cyrkiel"
+},
+{
+"n": "folder",
+"p": "teczka"
+},
+{
+"n": "highlighter",
+"p": "mazak fluorescencyjny"
+},
+{
+"n": "hole punch",
+"p": "dziurkacz"
+},
+{
+"n": "protractor",
+"p": "kątomierz"
+},
+{
+"n": "set square",
+"p": "ekierka"
+},
+{
+"n": "stapler",
+"p": "zszywacz"
+},
+{
+"n": "award",
+"p": "nagroda"
+},
+{
+"n": "certificate",
+"p": "świadectwo"
+},
+{
+"n": "cheat",
+"p": "ściągać"
+},
+{
+"n": "end-of-term exam",
+"p": "egzamin semestralny"
+},
+{
+"n": "end-of-year exam",
+"p": "egzamin na koniec roku"
+},
+{
+"n": "entrance exam",
+"p": "egzamin wstępny"
+},
+{
+"n": "exam paper",
+"p": "arkusz egzaminacyjny"
+},
+{
+"n": "extra lessons",
+"p": "dodatkowe lekcje"
+},
+{
+"n": "get a degree",
+"p": "otrzymać stopień naukowy"
+},
+{
+"n": "get caught",
+"p": "zostać złapanym"
+},
+{
+"n": "get results",
+"p": "otrzymać wyniki"
+},
+{
+"n": "give marks",
+"p": "wystawiać oceny"
+},
+{
+"n": "go towards sth",
+"p": "składać się na coś"
+},
+{
+"n": "grade",
+"p": "ocena"
+},
+{
+"n": "graduate",
+"p": "absolwent studiów"
+},
+{
+"n": "graduate from",
+"p": "ukończyć (studia wyższe)"
+},
+{
+"n": "memorise",
+"p": "uczyć się na pamięć"
+},
+{
+"n": "mock exam",
+"p": "egzamin próbny"
+},
+{
+"n": "oral exam",
+"p": "egzamin ustny"
+},
+{
+"n": "written exam",
+"p": "egzamin pisemny"
+},
+{
+"n": "past paper",
+"p": "arkusz egzaminacyjny z poprzednich lat"
+},
+{
+"n": "retake",
+"p": "zdawać ponownie"
+},
+{
+"n": "school-leaving exam",
+"p": "egzamin kończący naukę w szkole"
+},
+{
+"n": "send out",
+"p": "wysyłać"
+},
+{
+"n": "take a test",
+"p": "podejść do testu"
+},
+{
+"n": "take an exam",
+"p": "podejść do egzaminu"
+},
+{
+"n": "tutor",
+"p": "korepetytor"
+},
+{
+"n": "tutoring",
+"p": "korepetycje"
+},
+{
+"n": "A levels",
+"p": "brytyjski odpowiednik matury"
+},
+{
+"n": "academic results",
+"p": "wyniki w nauce"
+},
+{
+"n": "Bachelor of Arts",
+"p": "licencjat na kierunku humanistycznym"
+},
+{
+"n": "Bachelor of Science",
+"p": "licencjat w dziedzinie nauk ścisłych lub przyrodniczych"
+},
+{
+"n": "cram for sth",
+"p": "wkuwać do czegoś"
+},
+{
+"n": "get a distinction",
+"p": "otrzymać wyróżnienie"
+},
+{
+"n": "International Baccalaureate",
+"p": "matura międzynarodowa"
+},
+{
+"n": "Master of Arts",
+"p": "magister nauk humanistycznych"
+},
+{
+"n": "pass with flying colours",
+"p": "zdać celująco"
+},
+{
+"n": "scrape through",
+"p": "z trudnem przebrnąć"
+},
+{
+"n": "win a scholarship",
+"p": "zdobyć stypendium"
+},
+{
+"n": "absent",
+"p": "nieobecny"
+},
+{
+"n": "absentee",
+"p": "osoba nieobecna"
+},
+{
+"n": "assessment",
+"p": "ocena"
+},
+{
+"n": "attendance",
+"p": "obecność na zajęciach"
+},
+{
+"n": "bell",
+"p": "dzwonek"
+},
+{
+"n": "bully",
+"p": "dręczyć"
+},
+{
+"n": "check your work",
+"p": "sprawdzić swoją pracę"
+},
+{
+"n": "compulsory",
+"p": "obowiązkowy"
+},
+{
+"n": "coursebook",
+"p": "podręcznik"
+},
+{
+"n": "coursework",
+"p": "praca okresowa"
+},
+{
+"n": "curriculum",
+"p": "program nauczania"
+},
+{
+"n": "deadline",
+"p": "termin wykonania pracy"
+},
+{
+"n": "dictation",
+"p": "dyktando"
+},
+{
+"n": "do an assignment",
+"p": "wykonać zadaną pracę"
+},
+{
+"n": "write an assignment",
+"p": "napisać zadaną pracę"
+},
+{
+"n": "do research",
+"p": "poszukiwać informacji"
+},
+{
+"n": "get poor results",
+"p": "uzyskać słabe wyniki"
+},
+{
+"n": "get suspended",
+"p": "zostać zawieszonym"
+},
+{
+"n": "give a presentation",
+"p": "przedstawić prezentację"
+},
+{
+"n": "give a talk on",
+"p": "wygłosić referat na temat"
+},
+{
+"n": "grade point average",
+"p": "średnia ocen"
+},
+{
+"n": "hand in homework",
+"p": "oddać pracę domową"
+},
+{
+"n": "miss lessons",
+"p": "opuszczać lekcje"
+},
+{
+"n": "optional",
+"p": "opcjonalny"
+},
+{
+"n": "packed lunch",
+"p": "drugie śniadanie"
+},
+{
+"n": "PE kit",
+"p": "strój sportowy"
+},
+{
+"n": "play truant",
+"p": "wagarować"
+},
+{
+"n": "project work",
+"p": "praca projektowa"
+},
+{
+"n": "punctuality",
+"p": "punktualność"
+},
+{
+"n": "report someone",
+"p": "zgłosić kogoś"
+},
+{
+"n": "set homework",
+"p": "zadawać pracę domową"
+},
+{
+"n": "sick note",
+"p": "zwolnienie z powodu choroby"
+},
+{
+"n": "work in pairs",
+"p": "pracować w parach"
+},
+{
+"n": "work on a project",
+"p": "pracować nad projektem"
+},
+{
+"n": "write an essay",
+"p": "napisać wypracowanie"
+},
+{
+"n": "absenteeism",
+"p": "absencja"
+},
+{
+"n": "assembly",
+"p": "zgromadzenie"
+},
+{
+"n": "cut classes",
+"p": "urwać się z lekcji"
+},
+{
+"n": "expulsion",
+"p": "wydalenie"
+},
+{
+"n": "forge",
+"p": "podrabiać"
+},
+{
+"n": "free period",
+"p": "wolna lekcja"
+},
+{
+"n": "misbehave",
+"p": "źle się zachowywać"
+},
+{
+"n": "old student",
+"p": "były uczeń"
+},
+{
+"n": "prize-giving",
+"p": "rozdanie nagród"
+},
+{
+"n": "take the register",
+"p": "sprawdzać obecność"
+},
+{
+"n": "take time off",
+"p": "wziąć wolne"
+},
+{
+"n": "tutorial",
+"p": "konsultacje"
+},
+{
+"n": "classmate",
+"p": "kolega z klasy"
+},
+{
+"n": "classroom assistant",
+"p": "asystent nauczyciela"
+},
+{
+"n": "form tutor",
+"p": "wychowawca"
+},
+{
+"n": "head teacher",
+"p": "dyrektor szkoły"
+},
+{
+"n": "headmistress",
+"p": "dyrektorka szkoły"
+},
+{
+"n": "pupil",
+"p": "uczeń"
+},
+{
+"n": "staff",
+"p": "grono pedagogiczne"
+},
+{
+"n": "careers adviser",
+"p": "doradca zawodowy"
+},
+{
+"n": "caretaker",
+"p": "woźny"
+},
+{
+"n": "dean",
+"p": "dziekan"
+},
+{
+"n": "deputy head",
+"p": "wicedyrektor"
+},
+{
+"n": "head girl",
+"p": "przewodnicząca samorządu szkolnego"
+},
+{
+"n": "head boy",
+"p": "przewodniczący samorządu szkolnego"
+},
+{
+"n": "lecturer",
+"p": "wykładowca"
+},
+{
+"n": "prefect",
+"p": "przewodniczący klasy"
+},
+{
+"n": "belong to",
+"p": "należeć do"
+},
+{
+"n": "charity event",
+"p": "impreza charytatywna"
+},
+{
+"n": "exchange trip",
+"p": "wycieczka w ramach wymiany międzyszkolnej"
+},
+{
+"n": "join a club",
+"p": "wstąpić do klubu"
+},
+{
+"n": "join a society",
+"p": "wstąpić do kółka"
+},
+{
+"n": "member",
+"p": "członek"
+},
+{
+"n": "pay attention",
+"p": "uważać"
+},
+{
+"n": "school trip",
+"p": "wycieczka szkolna"
+},
+{
+"n": "summer camp",
+"p": "obóz letni"
+},
+{
+"n": "take part in sth",
+"p": "brać udział w czymś"
+},
+{
+"n": "training",
+"p": "szkolenie"
+},
+{
+"n": "voluntary work",
+"p": "wolontariat"
+},
+{
+"n": "workshop",
+"p": "warsztat"
+},
+{
+"n": "academy",
+"p": "uczelnia"
+},
+{
+"n": "boarding school",
+"p": "szkoła z internatem"
+},
+{
+"n": "coeducational school",
+"p": "szkoła koedukacyjna"
+},
+{
+"n": "college",
+"p": "kolegium"
+},
+{
+"n": "do vocational training",
+"p": "uczyć się zawodu"
+},
+{
+"n": "elementary school",
+"p": "szkoła podstawowa"
+},
+{
+"n": "high school",
+"p": "szkoła średnia"
+},
+{
+"n": "independent school",
+"p": "szkoła prywatna"
+},
+{
+"n": "junior high school",
+"p": "w USA szkoła średnia dla uczniów 13-15 lat"
+},
+{
+"n": "kindergarten",
+"p": "przedszkole"
+},
+{
+"n": "nursery",
+"p": "żłobek"
+},
+{
+"n": "school fees",
+"p": "czesne"
+},
+{
+"n": "state school",
+"p": "szkoła państwowa"
+},
+{
+"n": "university",
+"p": "uniwersytet"
+},
+{
+"n": "vocational school",
+"p": "szkoła zawodowa"
+},
+{
+"n": "ability to learn",
+"p": "możliwość uczenia się"
+},
+{
+"n": "grammar school",
+"p": "szkoła średnia przyjmująca uczniów, którzy zdali egzamin wstępny"
+},
+{
+"n": "homeschooling",
+"p": "edukacja domowa"
+},
+{
+"n": "public school system",
+"p": "sieć szkół prywatnych"
+},
+{
+"n": "serve an apprenticeship",
+"p": "odbyć praktyki"
+},
+{
+"n": "stream",
+"p": "dzielić uczniów na grupy"
+},
+{
+"n": "abacus",
+"p": "liczydło"
+},
+{
+"n": "be a matter of time",
+"p": "być kwestią czasu"
+},
+{
+"n": "be hard to imagine",
+"p": "być trudnym do wyobrażenia"
+},
+{
+"n": "calculator",
+"p": "kalkulator"
+},
+{
+"n": "cloud-based platform",
+"p": "platforma oparta na chmurze"
+},
+{
+"n": "digital whiteboard",
+"p": "tablica interaktywna"
+},
+{
+"n": "globe",
+"p": "globus"
+},
+{
+"n": "handy",
+"p": "poręczny"
+},
+{
+"n": "have a clue",
+"p": "mieć pojęcie o czymś"
+},
+{
+"n": "ink pen",
+"p": "pióro wieczne"
+},
+{
+"n": "overhead projector",
+"p": "rzutnik"
+},
+{
+"n": "visual aids",
+"p": "naukowe pomoce wizualne"
+},
+{
+"n": "with the advent of sth",
+"p": "wraz z nadejściem czegoś"
+},
+{
+"n": "be of benefit to sth",
+"p": "być korzyścią dla czegoś"
+},
+{
+"n": "be part and parcel of sth",
+"p": "być nieodłącznym elementem czegoś"
+},
+{
+"n": "be second to none",
+"p": "nie mieć sobie równych"
+},
+{
+"n": "contribute to sth",
+"p": "przyczyniać się do czegoś"
+},
+{
+"n": "do one's utmost",
+"p": "robić wszystko, co w swojej mocy"
+},
+{
+"n": "get hold of sth",
+"p": "zdobyć coś"
+},
+{
+"n": "go to sth",
+"p": "być wykorzystanym na coś"
+},
+{
+"n": "implement",
+"p": "wdrożyć"
+},
+{
+"n": "stage an event",
+"p": "zorganizować wydarzenie"
+},
+{
+"n": "hit the books",
+"p": "usiąść do książek"
+},
+{
+"n": "pack sth into",
+"p": "wpakować w coś"
+},
+{
+"n": "pick up information",
+"p": "zbierać informacje"
+},
+{
+"n": "resume one's work",
+"p": "wznowić pracę"
+},
+{
+"n": "space out",
+"p": "rozłożyć w czasie"
+},
+{
+"n": "at stake",
+"p": "na szali"
+},
+{
+"n": "be the making of sb",
+"p": "przyczynić się do czyjegoś sukcesu"
+},
+{
+"n": "get to grips with sth",
+"p": "zmierzyć się z czymś"
+},
+{
+"n": "in leaps and bounds",
+"p": "szybko"
+},
+{
+"n": "keep one's nose to the grindstone",
+"p": "harować jak wół"
+},
+{
+"n": "knuckle down to sth",
+"p": "wziąć się do roboty"
+},
+{
+"n": "out of sb's comfort zone",
+"p": "poza czyjąś strefą komfortu"
+},
+{
+"n": "sail through sth",
+"p": "poradzić sobie z czymś bez problemów"
+},
+{
+"n": "set sb's sights high",
+"p": "ustawić komuś wysoko poprzeczkę"
+},
+{
+"n": "tearaway",
+"p": "rozrabiaka"
+}
+]

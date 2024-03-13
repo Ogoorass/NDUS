@@ -1,0 +1,962 @@
+[
+{
+"n": "blocked drain",
+"p": "zatkany odpływ"
+},
+{
+"n": "canteen",
+"p": "stołówka"
+},
+{
+"n": "common room",
+"p": "świetlica"
+},
+{
+"n": "head teacher's office",
+"p": "gabinet dyrektora szkoły"
+},
+{
+"n": "laboratory",
+"p": "pracownia"
+},
+{
+"n": "lecture hall",
+"p": "aula"
+},
+{
+"n": "locker room",
+"p": "szatnia"
+},
+{
+"n": "secretary's office",
+"p": "sekretariat"
+},
+{
+"n": "sports field",
+"p": "boisko"
+},
+{
+"n": "staffroom",
+"p": "pokój nauczycielski"
+},
+{
+"n": "archaeology",
+"p": "archeologia"
+},
+{
+"n": "architecture",
+"p": "architektura"
+},
+{
+"n": "arts subjects",
+"p": "przedmioty artystyczne"
+},
+{
+"n": "banking and finance",
+"p": "bankowość i finanse"
+},
+{
+"n": "chemistry",
+"p": "chemia"
+},
+{
+"n": "engineering",
+"p": "inżynieria"
+},
+{
+"n": "foreign languages",
+"p": "języki obce"
+},
+{
+"n": "humanities",
+"p": "nauki humanistyczne"
+},
+{
+"n": "information technology",
+"p": "informatyka"
+},
+{
+"n": "journalism",
+"p": "dziennikarstwo"
+},
+{
+"n": "law",
+"p": "prawo"
+},
+{
+"n": "marketing and management",
+"p": "marketing i zarządzanie"
+},
+{
+"n": "medicine",
+"p": "medycyna"
+},
+{
+"n": "physical education",
+"p": "wychowanie fizyczne"
+},
+{
+"n": "physics",
+"p": "fizyka"
+},
+{
+"n": "psychology",
+"p": "psychologia"
+},
+{
+"n": "science subjects",
+"p": "przedmioty ścisłe"
+},
+{
+"n": "social sciences",
+"p": "nauki społeczne"
+},
+{
+"n": "sociology",
+"p": "socjologia"
+},
+{
+"n": "biotechnology",
+"p": "biotechnologia"
+},
+{
+"n": "choreography",
+"p": "choreografia"
+},
+{
+"n": "design and technology",
+"p": "technika"
+},
+{
+"n": "economic education",
+"p": "ekonomia"
+},
+{
+"n": "environmental science",
+"p": "nauka o ochronie środowiska"
+},
+{
+"n": "media studies",
+"p": "medioznawstwo"
+},
+{
+"n": "political science",
+"p": "politologia"
+},
+{
+"n": "sports psychology",
+"p": "psychologia sportu"
+},
+{
+"n": "all-round development",
+"p": "wszechstronny rozwój"
+},
+{
+"n": "attend a course",
+"p": "uczęszczać na kurs"
+},
+{
+"n": "be curious",
+"p": "być ciekawym"
+},
+{
+"n": "brainstorm ideas",
+"p": "omawiać różne pomysły"
+},
+{
+"n": "concentrate on sth",
+"p": "skupić się na czymś"
+},
+{
+"n": "critical thinking",
+"p": "myślenie krytyczne"
+},
+{
+"n": "motivate",
+"p": "motywować"
+},
+{
+"n": "motivating",
+"p": "motywujący"
+},
+{
+"n": "personal development",
+"p": "rozwój osobisty"
+},
+{
+"n": "put a plan into action",
+"p": "wprowadzić plan w życie"
+},
+{
+"n": "revise for sth",
+"p": "powtarzać do czegoś"
+},
+{
+"n": "self-management",
+"p": "zarządzanie sobą"
+},
+{
+"n": "self-motivation",
+"p": "wewnętrzna motywacja"
+},
+{
+"n": "set goals",
+"p": "wyznaczać sobie cele"
+},
+{
+"n": "struggle with sth",
+"p": "zmagać się z czymś"
+},
+{
+"n": "take notes",
+"p": "robić notatki"
+},
+{
+"n": "concentration span",
+"p": "czas skupieia uwagi"
+},
+{
+"n": "identify your learning style",
+"p": "zidentyfikować swój styl uczenia się"
+},
+{
+"n": "improve employability",
+"p": "poprawić szanse na zatrudnienie"
+},
+{
+"n": "know sth inside out",
+"p": "wiedzieć coś bardzo dobrze"
+},
+{
+"n": "memory aid",
+"p": "technika ułatwiająca zapamiętywanie"
+},
+{
+"n": "outperform",
+"p": "prześcignąć"
+},
+{
+"n": "pursuit of knowledge",
+"p": "zdobywanie wiedzy"
+},
+{
+"n": "chalk",
+"p": "kreda"
+},
+{
+"n": "compasses",
+"p": "cyrkiel"
+},
+{
+"n": "folder",
+"p": "teczka"
+},
+{
+"n": "highlighter",
+"p": "mazak fluorescencyjny"
+},
+{
+"n": "hole punch",
+"p": "dziurkacz"
+},
+{
+"n": "protractor",
+"p": "kątomierz"
+},
+{
+"n": "set square",
+"p": "ekierka"
+},
+{
+"n": "stapler",
+"p": "zszywacz"
+},
+{
+"n": "award",
+"p": "nagroda"
+},
+{
+"n": "certificate",
+"p": "świadectwo"
+},
+{
+"n": "cheat",
+"p": "ściągać"
+},
+{
+"n": "end-of-term exam",
+"p": "egzamin semestralny"
+},
+{
+"n": "end-of-year exam",
+"p": "egzamin na koniec roku"
+},
+{
+"n": "entrance exam",
+"p": "egzamin wstępny"
+},
+{
+"n": "exam paper",
+"p": "arkusz egzaminacyjny"
+},
+{
+"n": "extra lessons",
+"p": "dodatkowe lekcje"
+},
+{
+"n": "get a degree",
+"p": "otrzymać stopień naukowy"
+},
+{
+"n": "get caught",
+"p": "zostać złapanym"
+},
+{
+"n": "get results",
+"p": "otrzymać wyniki"
+},
+{
+"n": "give marks",
+"p": "wystawiać oceny"
+},
+{
+"n": "go towards sth",
+"p": "składać się na coś"
+},
+{
+"n": "grade",
+"p": "ocena"
+},
+{
+"n": "graduate",
+"p": "absolwent studiów"
+},
+{
+"n": "graduate from",
+"p": "ukończyć (studia wyższe)"
+},
+{
+"n": "memorise",
+"p": "uczyć się na pamięć"
+},
+{
+"n": "mock exam",
+"p": "egzamin próbny"
+},
+{
+"n": "oral exam",
+"p": "egzamin ustny"
+},
+{
+"n": "written exam",
+"p": "egzamin pisemny"
+},
+{
+"n": "past paper",
+"p": "arkusz egzaminacyjny z poprzednich lat"
+},
+{
+"n": "retake",
+"p": "zdawać ponownie"
+},
+{
+"n": "school-leaving exam",
+"p": "egzamin kończący naukę w szkole"
+},
+{
+"n": "send out",
+"p": "wysyłać"
+},
+{
+"n": "take a test",
+"p": "podejść do testu"
+},
+{
+"n": "take an exam",
+"p": "podejść do egzaminu"
+},
+{
+"n": "tutor",
+"p": "korepetytor"
+},
+{
+"n": "tutoring",
+"p": "korepetycje"
+},
+{
+"n": "A levels",
+"p": "brytyjski odpowiednik matury"
+},
+{
+"n": "academic results",
+"p": "wyniki w nauce"
+},
+{
+"n": "Bachelor of Arts",
+"p": "licencjat na kierunku humanistycznym"
+},
+{
+"n": "Bachelor of Science",
+"p": "licencjat w dziedzinie nauk ścisłych lub przyrodniczych"
+},
+{
+"n": "cram for sth",
+"p": "wkuwać do czegoś"
+},
+{
+"n": "get a distinction",
+"p": "otrzymać wyróżnienie"
+},
+{
+"n": "International Baccalaureate",
+"p": "matura międzynarodowa"
+},
+{
+"n": "Master of Arts",
+"p": "magister nauk humanistycznych"
+},
+{
+"n": "pass with flying colours",
+"p": "zdać celująco"
+},
+{
+"n": "scrape through",
+"p": "z trudnem przebrnąć"
+},
+{
+"n": "win a scholarship",
+"p": "zdobyć stypendium"
+},
+{
+"n": "absent",
+"p": "nieobecny"
+},
+{
+"n": "absentee",
+"p": "osoba nieobecna"
+},
+{
+"n": "assessment",
+"p": "ocena"
+},
+{
+"n": "attendance",
+"p": "obecność na zajęciach"
+},
+{
+"n": "bell",
+"p": "dzwonek"
+},
+{
+"n": "bully",
+"p": "dręczyć"
+},
+{
+"n": "check your work",
+"p": "sprawdzić swoją pracę"
+},
+{
+"n": "compulsory",
+"p": "obowiązkowy"
+},
+{
+"n": "coursebook",
+"p": "podręcznik"
+},
+{
+"n": "coursework",
+"p": "praca okresowa"
+},
+{
+"n": "curriculum",
+"p": "program nauczania"
+},
+{
+"n": "deadline",
+"p": "termin wykonania pracy"
+},
+{
+"n": "dictation",
+"p": "dyktando"
+},
+{
+"n": "do an assignment",
+"p": "wykonać zadaną pracę"
+},
+{
+"n": "write an assignment",
+"p": "napisać zadaną pracę"
+},
+{
+"n": "do research",
+"p": "poszukiwać informacji"
+},
+{
+"n": "get poor results",
+"p": "uzyskać słabe wyniki"
+},
+{
+"n": "get suspended",
+"p": "zostać zawieszonym"
+},
+{
+"n": "give a presentation",
+"p": "przedstawić prezentację"
+},
+{
+"n": "give a talk on",
+"p": "wygłosić referat na temat"
+},
+{
+"n": "grade point average",
+"p": "średnia ocen"
+},
+{
+"n": "hand in homework",
+"p": "oddać pracę domową"
+},
+{
+"n": "miss lessons",
+"p": "opuszczać lekcje"
+},
+{
+"n": "optional",
+"p": "opcjonalny"
+},
+{
+"n": "packed lunch",
+"p": "drugie śniadanie"
+},
+{
+"n": "PE kit",
+"p": "strój sportowy"
+},
+{
+"n": "play truant",
+"p": "wagarować"
+},
+{
+"n": "project work",
+"p": "praca projektowa"
+},
+{
+"n": "punctuality",
+"p": "punktualność"
+},
+{
+"n": "report someone",
+"p": "zgłosić kogoś"
+},
+{
+"n": "set homework",
+"p": "zadawać pracę domową"
+},
+{
+"n": "sick note",
+"p": "zwolnienie z powodu choroby"
+},
+{
+"n": "work in pairs",
+"p": "pracować w parach"
+},
+{
+"n": "work on a project",
+"p": "pracować nad projektem"
+},
+{
+"n": "write an essay",
+"p": "napisać wypracowanie"
+},
+{
+"n": "absenteeism",
+"p": "absencja"
+},
+{
+"n": "assembly",
+"p": "zgromadzenie"
+},
+{
+"n": "cut classes",
+"p": "urwać się z lekcji"
+},
+{
+"n": "expulsion",
+"p": "wydalenie"
+},
+{
+"n": "forge",
+"p": "podrabiać"
+},
+{
+"n": "free period",
+"p": "wolna lekcja"
+},
+{
+"n": "misbehave",
+"p": "źle się zachowywać"
+},
+{
+"n": "old student",
+"p": "były uczeń"
+},
+{
+"n": "prize-giving",
+"p": "rozdanie nagród"
+},
+{
+"n": "take the register",
+"p": "sprawdzać obecność"
+},
+{
+"n": "take time off",
+"p": "wziąć wolne"
+},
+{
+"n": "tutorial",
+"p": "konsultacje"
+},
+{
+"n": "classmate",
+"p": "kolega z klasy"
+},
+{
+"n": "classroom assistant",
+"p": "asystent nauczyciela"
+},
+{
+"n": "form tutor",
+"p": "wychowawca"
+},
+{
+"n": "head teacher",
+"p": "dyrektor szkoły"
+},
+{
+"n": "headmistress",
+"p": "dyrektorka szkoły"
+},
+{
+"n": "pupil",
+"p": "uczeń"
+},
+{
+"n": "staff",
+"p": "grono pedagogiczne"
+},
+{
+"n": "careers adviser",
+"p": "doradca zawodowy"
+},
+{
+"n": "caretaker",
+"p": "woźny"
+},
+{
+"n": "dean",
+"p": "dziekan"
+},
+{
+"n": "deputy head",
+"p": "wicedyrektor"
+},
+{
+"n": "head girl",
+"p": "przewodnicząca samorządu szkolnego"
+},
+{
+"n": "head boy",
+"p": "przewodniczący samorządu szkolnego"
+},
+{
+"n": "lecturer",
+"p": "wykładowca"
+},
+{
+"n": "prefect",
+"p": "przewodniczący klasy"
+},
+{
+"n": "belong to",
+"p": "należeć do"
+},
+{
+"n": "charity event",
+"p": "impreza charytatywna"
+},
+{
+"n": "exchange trip",
+"p": "wycieczka w ramach wymiany międzyszkolnej"
+},
+{
+"n": "join a club",
+"p": "wstąpić do klubu"
+},
+{
+"n": "join a society",
+"p": "wstąpić do kółka"
+},
+{
+"n": "member",
+"p": "członek"
+},
+{
+"n": "pay attention",
+"p": "uważać"
+},
+{
+"n": "school trip",
+"p": "wycieczka szkolna"
+},
+{
+"n": "summer camp",
+"p": "obóz letni"
+},
+{
+"n": "take part in sth",
+"p": "brać udział w czymś"
+},
+{
+"n": "training",
+"p": "szkolenie"
+},
+{
+"n": "voluntary work",
+"p": "wolontariat"
+},
+{
+"n": "workshop",
+"p": "warsztat"
+},
+{
+"n": "academy",
+"p": "uczelnia"
+},
+{
+"n": "boarding school",
+"p": "szkoła z internatem"
+},
+{
+"n": "coeducational school",
+"p": "szkoła koedukacyjna"
+},
+{
+"n": "college",
+"p": "kolegium"
+},
+{
+"n": "do vocational training",
+"p": "uczyć się zawodu"
+},
+{
+"n": "elementary school",
+"p": "szkoła podstawowa"
+},
+{
+"n": "high school",
+"p": "szkoła średnia"
+},
+{
+"n": "independent school",
+"p": "szkoła prywatna"
+},
+{
+"n": "junior high school",
+"p": "w USA szkoła średnia dla uczniów 13-15 lat"
+},
+{
+"n": "kindergarten",
+"p": "przedszkole"
+},
+{
+"n": "nursery",
+"p": "żłobek"
+},
+{
+"n": "school fees",
+"p": "czesne"
+},
+{
+"n": "state school",
+"p": "szkoła państwowa"
+},
+{
+"n": "university",
+"p": "uniwersytet"
+},
+{
+"n": "vocational school",
+"p": "szkoła zawodowa"
+},
+{
+"n": "ability to learn",
+"p": "możliwość uczenia się"
+},
+{
+"n": "grammar school",
+"p": "szkoła średnia przyjmująca uczniów, którzy zdali egzamin wstępny"
+},
+{
+"n": "homeschooling",
+"p": "edukacja domowa"
+},
+{
+"n": "public school system",
+"p": "sieć szkół prywatnych"
+},
+{
+"n": "serve an apprenticeship",
+"p": "odbyć praktyki"
+},
+{
+"n": "stream",
+"p": "dzielić uczniów na grupy"
+},
+{
+"n": "abacus",
+"p": "liczydło"
+},
+{
+"n": "be a matter of time",
+"p": "być kwestią czasu"
+},
+{
+"n": "be hard to imagine",
+"p": "być trudnym do wyobrażenia"
+},
+{
+"n": "calculator",
+"p": "kalkulator"
+},
+{
+"n": "cloud-based platform",
+"p": "platforma oparta na chmurze"
+},
+{
+"n": "digital whiteboard",
+"p": "tablica interaktywna"
+},
+{
+"n": "globe",
+"p": "globus"
+},
+{
+"n": "handy",
+"p": "poręczny"
+},
+{
+"n": "have a clue",
+"p": "mieć pojęcie o czymś"
+},
+{
+"n": "ink pen",
+"p": "pióro wieczne"
+},
+{
+"n": "overhead projector",
+"p": "rzutnik"
+},
+{
+"n": "visual aids",
+"p": "naukowe pomoce wizualne"
+},
+{
+"n": "with the advent of sth",
+"p": "wraz z nadejściem czegoś"
+},
+{
+"n": "be of benefit to sth",
+"p": "być korzyścią dla czegoś"
+},
+{
+"n": "be part and parcel of sth",
+"p": "być nieodłącznym elementem czegoś"
+},
+{
+"n": "be second to none",
+"p": "nie mieć sobie równych"
+},
+{
+"n": "contribute to sth",
+"p": "przyczyniać się do czegoś"
+},
+{
+"n": "do one's utmost",
+"p": "robić wszystko, co w swojej mocy"
+},
+{
+"n": "get hold of sth",
+"p": "zdobyć coś"
+},
+{
+"n": "go to sth",
+"p": "być wykorzystanym na coś"
+},
+{
+"n": "implement",
+"p": "wdrożyć"
+},
+{
+"n": "stage an event",
+"p": "zorganizować wydarzenie"
+},
+{
+"n": "hit the books",
+"p": "usiąść do książek"
+},
+{
+"n": "pack sth into",
+"p": "wpakować w coś"
+},
+{
+"n": "pick up information",
+"p": "zbierać informacje"
+},
+{
+"n": "resume one's work",
+"p": "wznowić pracę"
+},
+{
+"n": "space out",
+"p": "rozłożyć w czasie"
+},
+{
+"n": "at stake",
+"p": "na szali"
+},
+{
+"n": "be the making of sb",
+"p": "przyczynić się do czyjegoś sukcesu"
+},
+{
+"n": "get to grips with sth",
+"p": "zmierzyć się z czymś"
+},
+{
+"n": "in leaps and bounds",
+"p": "szybko"
+},
+{
+"n": "keep one's nose to the grindstone",
+"p": "harować jak wół"
+},
+{
+"n": "knuckle down to sth",
+"p": "wziąć się do roboty"
+},
+{
+"n": "out of sb's comfort zone",
+"p": "poza czyjąś strefą komfortu"
+},
+{
+"n": "sail through sth",
+"p": "poradzić sobie z czymś bez problemów"
+},
+{
+"n": "set sb's sights high",
+"p": "ustawić komuś wysoko poprzeczkę"
+},
+{
+"n": "tearaway",
+"p": "rozrabiaka"
+}
+]

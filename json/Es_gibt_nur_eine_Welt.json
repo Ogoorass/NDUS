@@ -1,0 +1,482 @@
+[
+        {
+            "n": "die Achse",
+            "p": "oś"
+        },
+        {
+            "n": "die Antarktis",
+            "p": "Antarktyda"
+        },
+        {
+            "n": "der Ăquator",
+            "p": "równik"
+        },
+        {
+            "n": "atemberaubend",
+            "p": "zapierający dech"
+        },
+        {
+            "n": "bedecken",
+            "p": "pokrywać"
+        },
+        {
+            "n": "betebt",
+            "p": "ożywiony"
+        },
+        {
+            "n": "sich drehen",
+            "p": "obracać się"
+        },
+        {
+            "n": "die Drehung",
+            "p": "obrót"
+        },
+        {
+            "n": "durchziehen",
+            "p": "przechodzić"
+        },
+        {
+            "n": "entspringen",
+            "p": "wypływać"
+        },
+        {
+            "n": "die Erde",
+            "p": "ziemia"
+        },
+        {
+            "n": "das Kohlendioxid",
+            "p": "dwutlenek węgla"
+        },
+        {
+            "n": "das Lebewesen",
+            "p": "istota żyjąca"
+        },
+        {
+            "n": "das Licht",
+            "p": "światło"
+        },
+        {
+            "n": "die Luft",
+            "p": "powietrze"
+        },
+        {
+            "n": "die Lunge",
+            "p": "płuco"
+        },
+        {
+            "n": "der Mond",
+            "p": "księżyc"
+        },
+        {
+            "n": "der Nadetwald",
+            "p": "las iglasty"
+        },
+        {
+            "n": "die Pflanze",
+            "p": "roślina"
+        },
+        {
+            "n": "der Planet",
+            "p": "planeta "
+        },
+        {
+            "n": "der Sauerstoff",
+            "p": "tlen"
+        },
+        {
+            "n": "das Säugtier",
+            "p": "ssak"
+        },
+        {
+            "n": "der Stickstoff",
+            "p": "azot"
+        },
+        {
+            "n": "das Tal",
+            "p": "dolina"
+        },
+        {
+            "n": "umgehen",
+            "p": "obchodzić się"
+        },
+        {
+            "n": "die Umwett",
+            "p": "środowisko"
+        },
+        {
+            "n": "die Vielfalt",
+            "p": "różnorodność"
+        },
+        {
+            "n": "der Vogel",
+            "p": "ptak"
+        },
+        {
+            "n": "dasWaldgebiet",
+            "p": "obszar leśny"
+        },
+        {
+            "n": "der Wasserdampf",
+            "p": "para wodna"
+        },
+        {
+            "n": "der Wettraum",
+            "p": "przestrzeń kosmiczna"
+        },
+        {
+            "n": "die Wüste",
+            "p": "pustynia"
+        },
+        {
+            "n": "zusammenhängend",
+            "p": "powiązany"
+        },
+        {
+            "n": "ändern",
+            "p": "zmieniać"
+        },
+        {
+            "n": "das Atomkraftwerk",
+            "p": "elektrownia atomowa"
+        },
+        {
+            "n": "ausatmen",
+            "p": "wydychać"
+        },
+        {
+            "n": "ausbeuten",
+            "p": "eksploatować, wyzyskiwać"
+        },
+        {
+            "n": "aussterben",
+            "p": "wymierać"
+        },
+        {
+            "n": "benötigen",
+            "p": "potrzebować"
+        },
+        {
+            "n": "blasen",
+            "p": "wypuszczać"
+        },
+        {
+            "n": "dursten",
+            "p": "mieć pragnienie"
+        },
+        {
+            "n": "erkennen",
+            "p": "rozpoznawać. zauważać"
+        },
+        {
+            "n": "erzeugen",
+            "p": "produkować"
+        },
+        {
+            "n": "das Fahrzeug",
+            "p": "pojazd"
+        },
+        {
+            "n": "das Gerăt",
+            "p": "urządzenie"
+        },
+        {
+            "n": "heizen",
+            "p": "ogrzewać"
+        },
+        {
+            "n": "der Klimawandel",
+            "p": "zmiana klimatu"
+        },
+        {
+            "n": "die Kohle",
+            "p": "węgiel"
+        },
+        {
+            "n": "das Kohlekraftwerk",
+            "p": "elektrownia węglowa"
+        },
+        {
+            "n": "der Meeresspiegel",
+            "p": "poziom morza"
+        },
+        {
+            "n": "das Molekül",
+            "p": "molekuła"
+        },
+        {
+            "n": "die Mülldeponie",
+            "p": "wysypisko śmieci"
+        },
+        {
+            "n": "der Nordpol",
+            "p": "biegun północny"
+        },
+        {
+            "n": "das Ozonloch",
+            "p": "dziura ozonowa"
+        },
+        {
+            "n": "retten",
+            "p": "ratować"
+        },
+        {
+            "n": "das Rind",
+            "p": "bydło"
+        },
+        {
+            "n": "schmelzen",
+            "p": "topnieć"
+        },
+        {
+            "n": "der Schrott",
+            "p": "złom"
+        },
+        {
+            "n": "das Schwein",
+            "p": "świnia"
+        },
+        {
+            "n": "steigen",
+            "p": "rosnąć"
+        },
+        {
+            "n": "das Treibhausgas",
+            "p": "gaz cieplarniany"
+        },
+        {
+            "n": "umweltfeindlich",
+            "p": "niebezpieczny dla środowiska"
+        },
+        {
+            "n": "umweltfreundlich",
+            "p": "przyjazny dla środowiska"
+        },
+        {
+            "n": "der Umweltschutz",
+            "p": "ochrona środowiska"
+        },
+        {
+            "n": "die Unmenge",
+            "p": "mnóstwo"
+        },
+        {
+            "n": "verbrauchen",
+            "p": "zużywać"
+        },
+        {
+            "n": "das Weltall",
+            "p": "wszechświat"
+        },
+        {
+            "n": "der Wohlstand",
+            "p": "dobrobyt"
+        },
+        {
+            "n": "zerstbren",
+            "p": "niszczyć"
+        },
+        {
+            "n": "das Altpapier",
+            "p": "makulatura"
+        },
+        {
+            "n": "aufladen",
+            "p": "ładować"
+        },
+        {
+            "n": "ausmachen",
+            "p": "wyłączać"
+        },
+        {
+            "n": "ausschatten",
+            "p": "wyłączać"
+        },
+        {
+            "n": "benutzen",
+            "p": "używać"
+        },
+        {
+            "n": "damalig",
+            "p": "ówczesny"
+        },
+        {
+            "n": "drehen",
+            "p": "kręcić"
+        },
+        {
+            "n": "das Eiland",
+            "p": "wyspa"
+        },
+        {
+            "n": "einseifen",
+            "p": "namydlać"
+        },
+        {
+            "n": "entwickeln",
+            "p": "rozwijać"
+        },
+        {
+            "n": "das Erdbl",
+            "p": "ropa naftowa"
+        },
+        {
+            "n": "erneuerbar",
+            "p": "odnawialny"
+        },
+        {
+            "n": "gewinnen",
+            "p": "pozyskiwać"
+        },
+        {
+            "n": "das Holz",
+            "p": "drewno"
+        },
+        {
+            "n": "der Müll",
+            "p": "śmieci"
+        },
+        {
+            "n": "nutzen",
+            "p": "używać"
+        },
+        {
+            "n": "bffentlich",
+            "p": "publiczny"
+        },
+        {
+            "n": "die Pfandflasche",
+            "p": "butelka zwrotna"
+        },
+        {
+            "n": "die Plastiktüte",
+            "p": "torebka foliowa"
+        },
+        {
+            "n": "pusten",
+            "p": "dmuchać, wydmuchiwać"
+        },
+        {
+            "n": "die Regierung",
+            "p": "rząd"
+        },
+        {
+            "n": "der Rest",
+            "p": "reszta"
+        },
+        {
+            "n": "sammeln",
+            "p": "zbierać"
+        },
+        {
+            "n": "schaden",
+            "p": "szkodzić"
+        },
+        {
+            "n": "schalten",
+            "p": "włączać"
+        },
+        {
+            "n": "der Schornstein",
+            "p": "komin"
+        },
+        {
+            "n": "setzen auf",
+            "p": "stawiać na"
+        },
+        {
+            "n": "die Solaranlage",
+            "p": "instalacja solarna"
+        },
+        {
+            "n": "statt",
+            "p": "zamiast"
+        },
+        {
+            "n": "die Stofftasche",
+            "p": "torba materiałowa"
+        },
+        {
+            "n": "das Stroh",
+            "p": "słoma"
+        },
+        {
+            "n": "der Strom",
+            "p": "prąd"
+        },
+        {
+            "n": "trennen",
+            "p": "segregować"
+        },
+        {
+            "n": "umwandeln",
+            "p": "przekształcać"
+        },
+        {
+            "n": "das Urlaubsparadies",
+            "p": "raj dla urlopowiczów"
+        },
+        {
+            "n": "verăndern",
+            "p": "zmieniać"
+        },
+        {
+            "n": "verbrauchen",
+            "p": "używać"
+        },
+        {
+            "n": "verbrennen",
+            "p": "spalać"
+        },
+        {
+            "n": "verfügbar",
+            "p": "dostępny. dyspozycyjny"
+        },
+        {
+            "n": "das Verkehrsmittel",
+            "p": "środek komunikacyjny"
+        },
+        {
+            "n": "verlassen",
+            "p": "opuszczać"
+        },
+        {
+            "n": "die Verpackung",
+            "p": "opakowanie"
+        },
+        {
+            "n": "völlig",
+            "p": "w pełni"
+        },
+        {
+            "n": "das Vorbild",
+            "p": "wzór"
+        },
+        {
+            "n": "vorhanden",
+            "p": "dostępny"
+        },
+        {
+            "n": "der Wasserhahn",
+            "p": "kran"
+        },
+        {
+            "n": "wegwerfen",
+            "p": "wyrzucać"
+        },
+        {
+            "n": "wiederverwertbar",
+            "p": "podlegający recyclingowi"
+        },
+        {
+            "n": "das Windrad",
+            "p": "wiatrak"
+        },
+        {
+            "n": "die Zauberinsel",
+            "p": "zaczarowana wyspa"
+        },
+        {
+            "n": "zudrehen",
+            "p": "zakręcać"
+        }
+    ]

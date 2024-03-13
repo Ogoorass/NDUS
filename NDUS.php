@@ -1,5 +1,7 @@
 <?php
-  require_once '/var/www/html/api/isLogged.php';
+if(file_exists('/var/www/html/api/isLogged.php')) {
+    require_once '/var/www/html/api/isLogged.php';    
+}
 ?>
 <!DOCTYPE html>
 <html lang="pl">
