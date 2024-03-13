@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <style>
+      body {
+        background-color: #333;
+      }
+      .container {
+        margin: auto;
+        display: flex;
+        width: 1000px;
+      }
+      .card {
+        width: 50%;
+        margin: 10px;
+        display: inline-block;
+        text-align: center;
+        justify-content: center;
+      }
+      .line {
+        text-align: right;
+        height: 30px;
+        width: 67%;
+      }
+
+      input[type="button"] {
+        width: 50px;
+        margin: auto;
+      }
+      .output {
+        padding: 5px 10px;
+        background-color: #222;
+        border-radius: 10px;
+        min-height: 50px;
+        width: 200px;
+        margin: auto;
+        color: #aaa;
+        text-wrap: wrap;
+        overflow-wrap: break-word;
+      }
+    </style>
+
+    <script>
+
+      function main() {
+        const input_next = document.querySelector('.card.next_word .line input');
+        const button_next = document.querySelector('.card.next_word input[type="button"]');
+        const output_next = document.querySelector('.card.next_word .output');
+        
+        
+        const input_answer = document.querySelector('.card.answer .line:nth-child(2) input');
+        const input_question_id = document.querySelector('.card.answer .line:nth-child(3) input');
+        const button_answer = document.querySelector('.card.answer input[type="button"]');
+        const output_answer = document.querySelector('.card.answer .output');
+
+        button_next.addEventListener("click", function() {
+          const listID = input_next.value;
+
+          let xhttp = new XMLHttpRequest();
+
+          xhttp.onload = function() {
+            output_next.innerHTML = this.responseText;
+          };
+
+          xhttp.open("GET", `/NDUS/api/next_word.php?listID=${listID}`);
+          xhttp.send();
+
+        });
+
+        button_answer.addEventListener("click", function() {
+          const question_id = input_question_id.value;
+          const answer = input_answer.value;
+
+          let xhttp = new XMLHttpRequest();
+
+          xhttp.onload = function() {
+            output_answer.innerHTML = this.responseText;
+          };
+
+          xhttp.open("POST", "/NDUS/api/answer.php");
+          xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+          xhttp.send(`answer=${answer}&userQuestionID=${question_id}`);
+
+        });
+    }
+
+    </script>
+
+  </head>
+  <body onload="main()">
+    <div class="container">
+
+      <div class="card next_word">
+          
+        <h1>next word</h1>
+
+
+        <div class="line">
+          <span class="label">list id</span>
+          <input type="text">
+        </div>
+
+        <input type="button" value="Go">
+
+        <h3>Output</h3>
+
+        <div class="output">
+          
+        </div>
+
+      </div>
+
+      <div class="card answer">
+
+        <h1>answer</h1>
+
+
+        <div class="line">
+          <span class="label">answer</span>
+          <input type="text">
+        </div>
+
+        <div class="line">
+          <span class="label">user question id</span>
+          <input type="text">
+        </div>
+
+
+        <input type="button" value="Go">
+
+        <h3>Output</h3>
+        <div class="output">
+
+        </div>
+
+      </div>
+
+    </div>
+  </body>
+</html>

@@ -5,7 +5,7 @@ if (
   !isset($_POST['userQuestionID']) ||
   !isset($_COOKIE['userID'])
   ) {
-  exit(1);
+  exit("1");
 }
 
 $answer = $_POST['answer'];
@@ -167,7 +167,6 @@ if ($left == 0) {
   $result_all_attempts = $stmt_all_attempts->get_result();
   $all_answers = $result_all_attempts->fetch_all(MYSQLI_ASSOC);
 }
-
 
 echo json_encode([
     'isAnswerGood' => $status,

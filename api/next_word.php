@@ -2,12 +2,12 @@
 
 
 if (!isset($_GET['listID'])) {
-  exit(1);
+  exit('listID not set!');
 }
 
 $listID = $_GET['listID'];
 
-
+$userID = "";
 // check for cookie userID
 if (isset($_COOKIE['userID']) && strlen($_COOKIE['userID']) == 13) {
   $userID = $_COOKIE['userID'];
@@ -22,8 +22,7 @@ $conn = @new mysqli($host, $ndus_db_user, $ndus_db_passwd, $ndus_db_name);
 
 if ($conn->connect_errno!=0)
 {
-    echo "Error: ".$conn->connect_errno;
-    exit(1);
+    exit("Error: ".$conn->connect_errno);
 }
 
 $user_table_questoins = $userID.'-questions';
@@ -35,15 +34,14 @@ INNER JOIN `questions` ON `{$user_table_questoins}`.`question_id`=`questions`.`i
 WHERE `questions`.`list_id` = ?";
 
 
- 
+
 // error when the table does not exists
 // so create table if not exists
 try {
   $stmt_question = $conn->prepare($query_question);
   $stmt_question->bind_param('i', $listID);
   if (!$stmt_question->execute()) {
-    echo 'something went wrong';
-    exit(1); 
+    exit('question query error!'); 
   }
   $result_question = $stmt_question->get_result();
 }
@@ -57,15 +55,31 @@ catch (mysqli_sql_exception $e) {
     PRIMARY KEY (id)
   )";
   if (!$conn->query($query)) {
-    echo 'something went wrong';
-    exit(1);
+    exit('create users database error!');
   }
 
   $stmt_question = $conn->prepare($query_question);
   $stmt_question->bind_param('i', $listID);
   if(!$stmt_question->execute()) {
-    echo 'something went wrong';
-    exit(1);
+    exit('question query error!');
+  }
+  $result_question = $stmt_question->get_result();
+
+  // add user to table
+  $query_add_user = "INSERT INTO `users` (`name`, `expiry date`) VALUES (?, ?)";
+  $stmt_add_user = $conn->prepare($query_add_user);
+  $expiry_date = new DateTime();
+  $expiry_date->add(new DateInterval('P30D'));
+  $stmt_add_user->bind_param('ss', $userID, $expiry_date->format("Y-m-d"));
+
+  if (!$stmt_add_user->execute()) {
+    exit('add user query error!');
+  }
+
+  $stmt_question = $conn->prepare($query_question);
+  $stmt_question->bind_param('i', $listID);
+  if (!$stmt_question->execute()) {
+    exit('question query error!'); 
   }
   $result_question = $stmt_question->get_result();
 }
@@ -77,8 +91,7 @@ if ($result_question->num_rows < 1) {
   $stmt = $conn->prepare($query);
   $stmt->bind_param("i", $listID);
   if (!$stmt->execute()) {
-    echo 'something wnt wrong';
-    exit(1);
+    exit('get question query error!');
   }
 
   $result = $stmt->get_result();
@@ -90,32 +103,37 @@ if ($result_question->num_rows < 1) {
     $stmt = $conn->prepare($query);
     $stmt->bind_param('i', $row['id']);
     if (!$stmt->execute()) {
-      echo 'something went wrong';
-      exit(1);
+      exit('insert question error!');
     }
   }
 
+
   if (!$stmt_question->execute()) {
-    echo 'something went wrong';
-    exit(1); 
+    exit('question query error!'); 
   }
 
-  $result_question = $stmt_question->get_result();
+  unset($result_question);
 
   //delete all answers from last session
-  $query_del_last_session = "DELETE `{$user_table_answers}` FROM `{$user_table_answers}` 
-    JOIN `questions` ON `questions`.`id` = `{$user_table_answers}`.`question_id` 
-    WHERE `questions`.`list_id` = ?;";
+  //if table dont exists throws an exception
+  try {
+    $query_del_last_session = "DELETE `{$user_table_answers}` FROM `{$user_table_answers}` 
+      JOIN `questions` ON `questions`.`id` = `{$user_table_answers}`.`question_id` 
+      WHERE `questions`.`list_id` = ?;";
 
-  $stmt_del_last_session = $conn->prepare($query_del_last_session);
-  $stmt_del_last_session->bind_param('i', $listID);
+    $stmt_del_last_session = $conn->prepare($query_del_last_session);
+    $stmt_del_last_session->bind_param('i', $listID);
 
-  if (!$stmt_del_last_session->execute()) {
-    echo 'delete last session answers query error!';
-    exit(1);
+    if (!$stmt_del_last_session->execute()) {
+      exit('delete last session answers query error!');
+    }
   }
+  catch (mysqli_sql_exception $e) {}
 }
 
+if (!isset($result_question)) {
+  $result_question = $stmt_question->get_result();
+}
 
 // success
 $questions = $result_question->fetch_all(MYSQLI_ASSOC);
