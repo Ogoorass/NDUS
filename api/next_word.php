@@ -1,8 +1,7 @@
 <?php
 
-
 if (!isset($_GET['listID'])) {
-  exit('listID not set!');
+  throw new Exception("listID not set");
 }
 
 $listID = $_GET['listID'];
@@ -34,7 +33,7 @@ INNER JOIN `questions` ON `{$user_table_questoins}`.`question_id`=`questions`.`i
 WHERE `questions`.`list_id` = ?";
 
 
-
+main:
 // error when the table does not exists
 // so create table if not exists
 try {
@@ -47,72 +46,63 @@ try {
 }
 
 catch (mysqli_sql_exception $e) {
-  
+
+  // make sure that the error is table does not exists
+  if ($e->getSqlState() != '42S02') {
+    throw $e;
+  }
+
   // create table
-  $query = "CREATE TABLE IF NOT EXISTS `{$user_table_questoins}` (
+  $query_create = "CREATE TABLE IF NOT EXISTS `{$user_table_questoins}` (
     id int NOT NULL AUTO_INCREMENT,
     question_id int,
     PRIMARY KEY (id)
   )";
-  if (!$conn->query($query)) {
-    exit('create users database error!');
-  }
 
-  $stmt_question = $conn->prepare($query_question);
-  $stmt_question->bind_param('i', $listID);
-  if(!$stmt_question->execute()) {
-    exit('question query error!');
+  if (!$conn->query($query_create)) {
+    throw new Exception('create users database error!');
   }
-  $result_question = $stmt_question->get_result();
 
   // add user to table
   $query_add_user = "INSERT INTO `users` (`name`, `expiry date`) VALUES (?, ?)";
   $stmt_add_user = $conn->prepare($query_add_user);
   $expiry_date = new DateTime();
-  $expiry_date->add(new DateInterval('P30D'));
+  $expiry_date->add(new DateInterval('P30D')); // plus 30 days i guess
   $stmt_add_user->bind_param('ss', $userID, $expiry_date->format("Y-m-d"));
 
   if (!$stmt_add_user->execute()) {
-    exit('add user query error!');
+    throw new Exception('add user query error!');
   }
 
-  $stmt_question = $conn->prepare($query_question);
-  $stmt_question->bind_param('i', $listID);
-  if (!$stmt_question->execute()) {
-    exit('question query error!'); 
-  }
-  $result_question = $stmt_question->get_result();
+  // redo excepted query
+  goto main;
 }
 
+// session in not started
 if ($result_question->num_rows < 1) {
-  // no result so the session in not started
+  
   // so fill in the table
-  $query = "SELECT id FROM questions WHERE list_id =?";
-  $stmt = $conn->prepare($query);
-  $stmt->bind_param("i", $listID);
-  if (!$stmt->execute()) {
-    exit('get question query error!');
+  $query_questions = "SELECT id FROM questions WHERE list_id =?";
+  $stmt_questions = $conn->prepare($query_questions);
+  $stmt_questions->bind_param("i", $listID);
+  if (!$stmt_questions->execute()) {
+    throw new Exception('get question query error!');
   }
 
-  $result = $stmt->get_result();
-  $result_arr = $result->fetch_all(MYSQLI_ASSOC);
+  $result_questions = $stmt_questions->get_result();
+  $result_arr = $result_questions->fetch_all(MYSQLI_ASSOC);
   shuffle($result_arr);
 
   foreach ($result_arr as $row) {
-    $query = "INSERT INTO `{$user_table_questoins}` (question_id) VALUES (?)";
-    $stmt = $conn->prepare($query);
-    $stmt->bind_param('i', $row['id']);
-    if (!$stmt->execute()) {
-      exit('insert question error!');
+    $query_insert = "INSERT INTO `{$user_table_questoins}` (question_id) VALUES (?)";
+    $stmt_insert = $conn->prepare($query_insert);
+    $stmt_insert->bind_param('i', $row['id']);
+    if (!$stmt_insert->execute()) {
+      throw new Exception('insert question error!');
     }
   }
 
-
-  if (!$stmt_question->execute()) {
-    exit('question query error!'); 
-  }
-
-  unset($result_question);
+  
 
   //delete all answers from last session
   //if table dont exists throws an exception
@@ -128,11 +118,15 @@ if ($result_question->num_rows < 1) {
       exit('delete last session answers query error!');
     }
   }
-  catch (mysqli_sql_exception $e) {}
-}
+  catch (mysqli_sql_exception $e) {
+    // if error code is table does not exists ignore
+    if ($e->getSqlState() != '42S02') {
+      throw $e;
+    }
+  }
 
-if (!isset($result_question)) {
-  $result_question = $stmt_question->get_result();
+  // redo question query
+  goto main;
 }
 
 // success
@@ -141,6 +135,5 @@ shuffle($questions);
 $question = $questions[0];
 
 echo json_encode($question);
-
 
 ?>
